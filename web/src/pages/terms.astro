@@ -1,0 +1,150 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+---
+<BaseLayout
+  title="Terms of Service"
+  description="Underdial terms of service — eligibility, subscriptions, affiliate disclosure, advice disclaimer, and limitation of liability."
+  path="/terms"
+>
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={[{ name: 'Terms of Service', url: `${SITE.url}/terms` }]} />
+  </Fragment>
+
+  <p class="brand">{SITE.name}</p>
+  <h1>Terms of Service</h1>
+  <p class="effective">Effective Date: June 14, 2026</p>
+
+  <p>
+    These Terms of Service ("Terms") govern your use of Underdial ("the app")
+    and the website at <a href={SITE.url}>{SITE.url}</a>. By using the app or the
+    website, you agree to these Terms.
+  </p>
+
+  <h2>1. Eligibility</h2>
+  <p>
+    You must be at least 13 years of age to use Underdial. By using the app, you
+    represent that you meet this age requirement.
+  </p>
+
+  <h2>2. No Account Required</h2>
+  <p>
+    Underdial has no sign-in and no user accounts. Your box, wrist settings, and
+    check history are stored locally on your device. You are responsible for
+    safeguarding your device and any backups you choose to keep.
+  </p>
+
+  <h2>3. Subscriptions</h2>
+  <p>
+    <strong>Underdial Plus</strong> is an optional auto-renewing subscription.
+    Subscriptions are managed by Apple through the App Store. Key terms:
+  </p>
+  <ul>
+    <li>Pricing is shown in-app at the time of purchase, in your local currency.</li>
+    <li>Payment is charged to your Apple ID account at confirmation of purchase.</li>
+    <li>Subscriptions automatically renew unless canceled at least 24 hours before the end of the current period.</li>
+    <li>You can manage subscriptions and turn off auto-renewal in <strong>Settings &rarr; Apple ID &rarr; Subscriptions</strong> on your iPhone.</li>
+    <li>Refund requests must be made through Apple. We cannot process refunds directly.</li>
+    <li>Price changes take effect at the next renewal and require notice and consent where required by Apple.</li>
+  </ul>
+
+  <h2>4. Free vs Plus</h2>
+  <p>
+    The free app gives you two full watch checks plus unlimited browsing and
+    collection tracking. Underdial Plus unlocks unlimited checks, the
+    cheaper-alternatives list on every result, the full Box Audit, and the
+    reasoning behind each verdict. Current pricing and the up-to-date list of
+    what each tier includes are shown in-app at the time of purchase and may
+    evolve as new features ship. Continued use of an active subscription after a
+    feature change constitutes acceptance of the updated tier definition.
+  </p>
+
+  <h2>5. Affiliate Links and Retailer Disclosure</h2>
+  <p>
+    Watch detail pages and selected articles may include
+    <strong>&ldquo;Buy from&rdquo;</strong> links to third-party retailers. These
+    are affiliate links delivered through the Awin network: when you click one and
+    complete a purchase, we may earn a small commission from the retailer.
+    <strong>This does not affect the price you pay.</strong>
+  </p>
+  <p>
+    Affiliate links are clearly disclosed on every buy screen. Underdial is not a
+    retailer and does not sell, distribute, or ship watches. Your purchase
+    contract is with the retailer, and any questions about pricing, shipping,
+    returns, warranty, or product authenticity must be directed to them.
+  </p>
+  <p>
+    This disclosure is provided in accordance with the FTC's
+    <em>Guides Concerning the Use of Endorsements and Testimonials in Advertising</em>.
+  </p>
+
+  <h2>6. Advice and Recommendations</h2>
+  <p>
+    Verdicts, redundancy flags, cheaper-alternative lists, and Box Audit
+    insights are best-effort guidance based on catalog data and the parameters
+    you provide (budget, wrist size, and the watches in your box). They are not
+    professional, financial, or investment advice. Watches are a personal and
+    sometimes subjective purchase &mdash; treat Underdial as a second opinion,
+    not the final word, and confirm specifications and fit with the retailer
+    before you buy.
+  </p>
+
+  <h2>7. Acceptable Use</h2>
+  <p>
+    No abuse, scraping, reverse-engineering, or interference with the service.
+    We may restrict access for conduct that violates these Terms.
+  </p>
+
+  <h2>8. Intellectual Property</h2>
+  <p>
+    The Underdial name, logo, design, and code are our property. Watch brand
+    names, model names, reference numbers, and product imagery are the property
+    of their respective owners and are used for informational and identification
+    purposes only.
+  </p>
+
+  <h2>9. Disclaimer of Warranties</h2>
+  <p>
+    Underdial is provided "AS IS" and "AS AVAILABLE" without warranties of any
+    kind, express or implied. Catalog specifications, pricing, and availability
+    are general reference and may not reflect every variant, region, or change
+    by the manufacturer or retailer. We make no claims about the condition,
+    authenticity, or suitability of any watch sold by a third-party retailer.
+  </p>
+
+  <h2>10. Limitation of Liability</h2>
+  <p>
+    To the maximum extent permitted by law, our total liability for any claim
+    related to the app or the website shall not exceed the amount you paid to us
+    in the prior twelve months. We are not liable for any indirect, incidental,
+    special, consequential, or punitive damages arising from or related to your
+    use of the service, including loss of data or a purchasing decision you made
+    using the app.
+  </p>
+
+  <h2>11. Deleting Your Data</h2>
+  <p>
+    Because there is no account, your data lives on your device. Use the in-app
+    reset (Settings &rarr; Reset Data) or delete the app to remove it. This
+    cannot be undone. Removing the app does not automatically cancel an active
+    App Store subscription &mdash; manage subscriptions in
+    <strong>Settings &rarr; Apple ID &rarr; Subscriptions</strong>.
+  </p>
+
+  <h2>12. Changes to These Terms</h2>
+  <p>
+    We may update these Terms from time to time. Material changes will be
+    communicated through the app. Continued use after changes constitutes
+    acceptance of the revised Terms.
+  </p>
+
+  <h2>13. Contact</h2>
+  <p>
+    For questions about these Terms, contact us at:
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>
+  </p>
+
+  <Footer />
+</BaseLayout>

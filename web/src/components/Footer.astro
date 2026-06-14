@@ -1,0 +1,19 @@
+---
+import { SITE, FOOTER_NAV } from '../consts';
+const year = new Date().getFullYear();
+---
+<hr class="footer-rule" />
+<nav class="footer-nav" aria-label="Footer navigation">
+  {FOOTER_NAV.map((item) => (
+    <a href={item.href}>{item.label}</a>
+  ))}
+</nav>
+<p class="footer">
+  Underdial is an independent watch-advisor app. We do not sell watches.
+  &ldquo;Buy from&rdquo; links to retailers may earn us a small commission
+  at no cost to you.
+</p>
+<p class="footer">
+  Questions? <a href={`mailto:${SITE.supportEmail}`} style="color:inherit;border-bottom:none;">{SITE.supportEmail}</a>
+</p>
+<p class="footer">&copy; {year} {SITE.name}, a {SITE.legalEntity} product. All rights reserved.</p>

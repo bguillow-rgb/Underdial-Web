@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import FAQ from '../components/FAQ.astro';
+import Footer from '../components/Footer.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+
+// Support FAQs for Underdial — phrased as watch-buyer questions, structured
+// as H2 extraction targets, and emitted with FAQPage schema by the FAQ
+// component.
+const faqs = [
+  {
+    q: 'How do I check a watch?',
+    a:
+      'Open the Check tab and search by watch name or brand. Pick the right entry from the results and the WatchFit advisor runs it against your budget, wrist size, and the watches already in your box, then returns a verdict — smart add, redundant, or wrong fit — with the reasoning behind it. The free app gives you two full checks; Underdial Plus unlocks unlimited.',
+  },
+  {
+    q: 'Why doesn\u2019t my watch appear in search?',
+    a:
+      'The catalog covers thousands of watches under $1,000 but is not exhaustive, and it intentionally excludes anything over the $1,000 ceiling. If a sub-$1,000 watch is missing, use the Suggest a Watch link at the bottom of the search results and include the brand, model, reference number if known, and a source link. Curated additions usually land in the next catalog update.',
+  },
+  {
+    q: 'How do I cancel my Underdial Plus subscription?',
+    a:
+      'Subscriptions are managed by Apple, not by Underdial. On your iPhone or iPad open Settings, tap your name at the top, tap Subscriptions, then tap Underdial Plus and Cancel Subscription. Cancellation takes effect at the end of the current billing period.',
+  },
+  {
+    q: 'Do I need an account to use Underdial?',
+    a:
+      'No. There is no account to create and no sign-in. Your box, your wrist notes, and your check history live on your device. That means nothing to remember and nothing to leak — but it also means your data is tied to the device, so use an iCloud device backup if you want it preserved across a phone change.',
+  },
+  {
+    q: 'What data does Underdial collect?',
+    a:
+      'As little as possible. Your box, wrist size, and check history stay on your device. We do not run cross-user advertising and do not sell personal information. Subscription payments are handled entirely by Apple. See the Privacy Policy for the full breakdown.',
+  },
+  {
+    q: 'How do I delete my data?',
+    a:
+      'Because there is no account, your data never leaves your device. To remove everything, delete the app or use the in-app reset under Settings. See the Delete Your Data page for the full walkthrough.',
+  },
+  {
+    q: 'How do I contact support?',
+    a:
+      `Email ${SITE.supportEmail} for any question, bug report, feature request, or feedback. Include your iOS version and your app version (found at the bottom of the Settings tab). We answer every email, usually within a day.`,
+  },
+];
+---
+<BaseLayout
+  title="Support"
+  description="Underdial support — checking a watch, missing watches, subscription, data and privacy, and contact."
+  path="/support"
+>
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={[{ name: 'Support', url: `${SITE.url}/support` }]} />
+  </Fragment>
+
+  <p class="brand">{SITE.name}</p>
+  <h1>Support</h1>
+  <p class="effective">We answer every email. Usually within a day.</p>
+
+  <h2>Contact</h2>
+  <p>
+    For any question, bug report, feature request, or feedback:
+    <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+  </p>
+  <p>
+    Please include your iOS version and your app version
+    (found at the bottom of the Settings tab) &mdash; it helps trace issues faster.
+  </p>
+
+  <FAQ faqs={faqs} heading="Common Questions" />
+
+  <Footer />
+</BaseLayout>

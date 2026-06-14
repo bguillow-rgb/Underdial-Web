@@ -1,0 +1,162 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import FAQ from '../components/FAQ.astro';
+import Footer from '../components/Footer.astro';
+import SoftwareApplicationSchema from '../components/schema/SoftwareApplicationSchema.astro';
+import { SITE } from '../consts';
+
+// Latest 3 published articles for the homepage "From the Blog" teaser.
+// Drafts are excluded automatically because they have published:false.
+const latestArticles = (
+  await getCollection('articles', ({ data }) => data.published)
+)
+  .sort((a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf())
+  .slice(0, 3);
+
+const quickAnswer =
+  'Underdial is an iOS app for watch buyers. Search any watch under $1,000 ' +
+  'and it checks the piece against the collection you already own, your ' +
+  'budget, and your wrist size — then gives a plain verdict, flags anything ' +
+  'redundant, and lists cheaper ways to the same style. Underdial is not a ' +
+  'retailer; it never sells watches.';
+
+const faqs = [
+  {
+    q: 'What is Underdial?',
+    a:
+      'Underdial is an iOS app for people buying watches under $1,000. You search a watch you are eyeing, and the WatchFit advisor checks it against the watches you already own, your wrist size, and your budget — then tells you whether it is a smart add, redundant, or the wrong fit, and reasons through why.',
+  },
+  {
+    q: 'Is Underdial a retailer?',
+    a:
+      'No. Underdial does not sell watches. When you decide to buy, the app links out to the retailer that carries the watch and may earn a small commission on that referral, at no cost to you. This is disclosed on every buy screen and in the Terms. The price you pay is the same.',
+  },
+  {
+    q: 'Why only watches under $1,000?',
+    a:
+      'Underdial is built for the sub-$1,000 buyer — the person weighing a Seiko against a Tissot against a microbrand, not someone shopping Rolex or Patek. Keeping a hard ceiling means every check, every cheaper alternative, and every box-audit recommendation stays in a price band you would actually buy in.',
+  },
+  {
+    q: 'Is Underdial free? What does Plus unlock?',
+    a:
+      'The app is free to download and gives you two full watch checks plus unlimited browsing and collection tracking. Underdial Plus unlocks unlimited checks, the cheaper-alternatives list on every result, the full Box Audit of your collection, and the reasoning behind each verdict. Plus is managed through Apple and cancelable anytime in iOS Settings.',
+  },
+  {
+    q: 'How does the wrist-fit check work?',
+    a:
+      'During a 30-second setup you pick your wrist size — slim, average, or large. Underdial maps that to a target case diameter and flags watches that will wear too large or too small for you, so a 44mm diver does not end up swallowing a 6.25-inch wrist. It is the kind of check a good shop owner would make for you.',
+  },
+  {
+    q: 'Does my collection data stay private?',
+    a:
+      'Yes. Your box, your wrist notes, and your check history live on your device. There is no account to create and no sign-in. Underdial does not run cross-user advertising and does not sell personal information. See the Privacy Policy for the full breakdown.',
+  },
+  {
+    q: 'Will there be an Android version?',
+    a:
+      'Underdial launches on iOS first. An Android release is on the roadmap but not yet scheduled.',
+  },
+];
+---
+<BaseLayout
+  title={SITE.name}
+  description={SITE.description}
+  path="/"
+>
+  <Fragment slot="head">
+    <SoftwareApplicationSchema />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <meta property="og:image" content={`${SITE.url}/icon.png`} />
+  </Fragment>
+
+  <section class="hero">
+    <img src="/icon.svg" alt="Underdial app icon" class="hero-icon" width="80" height="80" />
+    <h1>{SITE.tagline}</h1>
+    <p class="hero-tagline">Should you buy that watch?<br/>Check it against your box, your budget, and your wrist.</p>
+
+    <p class="badge">Coming soon to the App Store</p>
+    <p class="hero-trust">Watches under $1,000 &middot; No sign-in &middot; iOS first</p>
+
+    <img
+      class="hero-shot"
+      src="/assets/screenshots/home.png"
+      alt="Underdial app home screen — check a watch, your rotation, and recent checks"
+      width="280"
+      height="490"
+      loading="eager"
+    />
+  </section>
+
+  <QuickAnswer text={quickAnswer} />
+
+  <section class="features">
+    <h2 class="section-title">Built for the under-$1,000 buyer</h2>
+
+    <div class="feature-grid">
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#9719;</div>
+        <h3>Check any watch</h3>
+        <p>Search the watch you are eyeing. WatchFit checks it against your box, your budget, and your wrist — and gives a plain verdict, not a hype reel.</p>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#8645;</div>
+        <h3>Spot the redundancy</h3>
+        <p>Already own a black mechanical diver? Underdial tells you before you buy a second one. It compares archetype, movement family, and dial.</p>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#8595;</div>
+        <h3>Cheaper ways to the same style</h3>
+        <p>For any watch you check, Underdial surfaces lower-priced pieces in the same archetype and movement class — with the savings spelled out.</p>
+      </div>
+
+      <div class="feature">
+        <div class="feature-icon" aria-hidden="true">&#9636;</div>
+        <h3>Audit your whole box</h3>
+        <p>See your collection's spread, redundancies, and gaps at a glance. Find the slot you are actually missing instead of buying more of the same.</p>
+      </div>
+    </div>
+
+    <p class="features-link"><a href="/features">See every feature &rarr;</a></p>
+  </section>
+
+  <h2>How does Underdial make money?</h2>
+  <p>
+    Underdial is free to download. An optional <strong>Underdial Plus</strong>
+    subscription unlocks unlimited checks, the cheaper-alternatives list, the
+    full Box Audit, and the reasoning behind every verdict. When you decide to
+    buy a watch, the app links out to the retailer that carries it &mdash; and
+    may earn a small commission on that referral, at no cost to you. There are
+    no ads and no data selling. We do not sell watches.
+  </p>
+
+  <div class="cta-row">
+    {SITE.appStoreUrl ? (
+      <a class="btn" href={SITE.appStoreUrl}>Download on iOS</a>
+    ) : (
+      <span class="btn btn--disabled">App Store — Coming Soon</span>
+    )}
+  </div>
+
+  {latestArticles.length > 0 && (
+    <section class="blog-teaser">
+      <h2 class="section-title">From the Blog</h2>
+      <ul class="blog-list">
+        {latestArticles.map((a) => (
+          <li>
+            <a href={`/articles/${a.slug}`}>{a.data.title}</a>
+            <p>{a.data.description}</p>
+          </li>
+        ))}
+      </ul>
+      <p class="features-link"><a href="/articles">All articles &rarr;</a></p>
+    </section>
+  )}
+
+  <FAQ faqs={faqs} />
+
+  <Footer />
+</BaseLayout>

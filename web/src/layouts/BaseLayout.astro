@@ -1,0 +1,86 @@
+---
+import { SITE, NAV } from '../consts';
+import OrganizationSchema from '../components/schema/OrganizationSchema.astro';
+import WebSiteSchema from '../components/schema/WebSiteSchema.astro';
+import Analytics from '../components/Analytics.astro';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  path?: string;
+  noindex?: boolean;
+  suppressGlobalSchema?: boolean;
+}
+
+const {
+  title,
+  description = SITE.description,
+  path = '',
+  noindex = false,
+  suppressGlobalSchema = false,
+} = Astro.props;
+
+const canonical = `${SITE.url}${path}`;
+const fullTitle =
+  title === SITE.name ? `${SITE.name} — ${SITE.tagline}` : `${title} — ${SITE.name}`;
+
+const currentPath = path;
+---
+<!doctype html>
+<html lang={SITE.locale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="awin-site-verification" content="Awin" />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex,nofollow" />}
+
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={SITE.name} />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={fullTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta property="og:image" content={`${SITE.url}/icon-512.png`} />
+
+    <link rel="icon" href="/favicon.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/icon.png" />
+    <meta name="theme-color" content={SITE.theme.bg} />
+
+    <!-- Google Fonts: Cormorant Garamond (headings + letterspaced wordmark) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap"
+      rel="stylesheet"
+    />
+
+    {!suppressGlobalSchema && <OrganizationSchema />}
+    {!suppressGlobalSchema && <WebSiteSchema />}
+
+    <Analytics />
+
+    <slot name="head" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="site-header">
+        <a href="/" class="site-wordmark">{SITE.name}</a>
+      </header>
+      <nav class="site-nav" aria-label="Main navigation">
+        {NAV.map((item) => (
+          <a
+            href={item.href}
+            aria-current={currentPath === item.href ? 'page' : undefined}
+          >{item.label}</a>
+        ))}
+      </nav>
+      <slot />
+    </div>
+  </body>
+</html>

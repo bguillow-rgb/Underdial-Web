@@ -1,0 +1,21 @@
+# Underdial
+
+> Underdial is an iOS app for watch buyers. You search any watch under $1,000
+> and it checks the piece against the collection you already own, your budget,
+> and your wrist size — then gives a plain verdict, flags anything redundant,
+> lists cheaper ways to the same style, and audits your whole box. The app does
+> not sell watches. It links out to retailer pages when users want to buy.
+> Affiliate links are disclosed.
+
+## Site
+- [Home](https://underdial.com/): app overview, features, FAQ
+- [About](https://underdial.com/about): who runs Underdial, editorial standards, what the app is and is not
+- [Features](https://underdial.com/features): WatchFit check, redundancy flagging, cheaper alternatives, Box Audit, browse, rotation
+- [Articles](https://underdial.com/articles): buying guides for the under-$1,000 watch buyer (archetypes, movements, sizing, value)
+- [Support](https://underdial.com/support): subscription cancellation, data deletion, troubleshooting
+- [Privacy Policy](https://underdial.com/privacy): data collection and handling — no account, data stays on device
+- [Terms of Service](https://underdial.com/terms): eligibility, subscriptions, affiliate disclosure
+- [Delete Data](https://underdial.com/delete-account): how to permanently delete your on-device data
+
+## Optional
+- [Sitemap](https://underdial.com/sitemap-index.xml): full URL index updated on every build

@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Footer from '../components/Footer.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+
+// Public data-deletion reference. Underdial has no accounts — all collection
+// data is stored on-device — so deletion is a local action, documented here for
+// transparency and App Store review.
+---
+<BaseLayout
+  title="Delete Your Data"
+  description="How to delete your Underdial data. There is no account — your collection lives on your device, so deletion is a local action."
+  path="/delete-account"
+>
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={[{ name: 'Delete Your Data', url: `${SITE.url}/delete-account` }]} />
+  </Fragment>
+
+  <p class="brand">{SITE.name}</p>
+  <h1>Delete Your Data</h1>
+  <p class="effective">Underdial has no account. Your collection lives on your device, so you control deletion entirely.</p>
+
+  <h2>Option 1 &mdash; Reset From Inside the App (recommended)</h2>
+  <ol>
+    <li>Open Underdial on your iPhone.</li>
+    <li>Tap the <strong>Settings</strong> tab.</li>
+    <li>Scroll to the bottom and tap <strong>Reset Data</strong>.</li>
+    <li>Confirm by tapping <strong>Reset</strong>.</li>
+  </ol>
+  <p>Your box, wrist settings, and check history are removed immediately.</p>
+
+  <h2>Option 2 &mdash; Delete the App</h2>
+  <p>
+    Because nothing is stored on our servers, deleting Underdial from your iPhone
+    removes all of its local data along with it. There is no separate server-side
+    record to request the deletion of.
+  </p>
+
+  <h2>What gets deleted</h2>
+  <ul>
+    <li>Your box (every watch you added).</li>
+    <li>Your wrist size and fit preferences.</li>
+    <li>Your check history and any saved verdicts.</li>
+    <li>Your rotation tracking and Box Audit data.</li>
+  </ul>
+
+  <h2>What is retained</h2>
+  <p>For legal and billing purposes the following may persist, none of it tied to your identity:</p>
+  <ul>
+    <li>Anonymized purchase records for Underdial Plus (held by Apple).</li>
+    <li>Anonymized aggregate analytics that cannot be traced back to you.</li>
+  </ul>
+
+  <h2>Subscriptions</h2>
+  <p>
+    Deleting the app or resetting your data does <strong>not</strong> automatically
+    cancel an active App Store subscription. You must cancel separately in
+    <strong>Settings &rarr; Apple ID &rarr; Subscriptions</strong> on your iPhone,
+    or it will continue to renew.
+  </p>
+
+  <h2>Questions?</h2>
+  <p>
+    Email <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+  </p>
+
+  <Footer />
+</BaseLayout>
