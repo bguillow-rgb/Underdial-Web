@@ -5,14 +5,14 @@ import Footer from '../components/Footer.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
 import { SITE } from '../consts';
 
-// Support FAQs for Underdial — phrased as watch-buyer questions, structured
+// Support FAQs for Underdial, phrased as watch-buyer questions, structured
 // as H2 extraction targets, and emitted with FAQPage schema by the FAQ
 // component.
 const faqs = [
   {
     q: 'How do I check a watch?',
     a:
-      'Open the Check tab and search by watch name or brand. Pick the right entry from the results and the WatchFit advisor runs it against your budget, wrist size, and the watches already in your box, then returns a verdict — smart add, redundant, or wrong fit — with the reasoning behind it. The free app gives you two full checks; Underdial Plus unlocks unlimited.',
+      'Open the Check tab and search by watch name or brand. Pick the right entry from the results and the WatchFit advisor runs it against your budget, wrist size, and the watches already in your box, then returns a verdict, smart add, redundant, or wrong fit, with the reasoning behind it. The free app gives you two full checks; Underdial Plus unlocks unlimited.',
   },
   {
     q: 'Why doesn\u2019t my watch appear in search?',
@@ -27,7 +27,7 @@ const faqs = [
   {
     q: 'Do I need an account to use Underdial?',
     a:
-      'No. There is no account to create and no sign-in. Your box, your wrist notes, and your check history live on your device. That means nothing to remember and nothing to leak — but it also means your data is tied to the device, so use an iCloud device backup if you want it preserved across a phone change.',
+      'No. There is no account to create and no sign-in. Your box, your wrist notes, and your check history live on your device. That means nothing to remember and nothing to leak, but it also means your data is tied to the device, so use an iCloud device backup if you want it preserved across a phone change.',
   },
   {
     q: 'What data does Underdial collect?',
@@ -48,7 +48,7 @@ const faqs = [
 ---
 <BaseLayout
   title="Support"
-  description="Underdial support — checking a watch, missing watches, subscription, data and privacy, and contact."
+  description="Underdial support, checking a watch, missing watches, subscription, data and privacy, and contact."
   path="/support"
 >
   <Fragment slot="head">
@@ -66,7 +66,7 @@ const faqs = [
   </p>
   <p>
     Please include your iOS version and your app version
-    (found at the bottom of the Settings tab) &mdash; it helps trace issues faster.
+    (found at the bottom of the Settings tab), it helps trace issues faster.
   </p>
 
   <FAQ faqs={faqs} heading="Common Questions" />

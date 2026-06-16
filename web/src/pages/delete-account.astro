@@ -4,13 +4,13 @@ import Footer from '../components/Footer.astro';
 import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
 import { SITE } from '../consts';
 
-// Public data-deletion reference. Underdial has no accounts — all collection
-// data is stored on-device — so deletion is a local action, documented here for
+// Public data-deletion reference. Underdial has no accounts, all collection
+// data is stored on-device, so deletion is a local action, documented here for
 // transparency and App Store review.
 ---
 <BaseLayout
   title="Delete Your Data"
-  description="How to delete your Underdial data. There is no account — your collection lives on your device, so deletion is a local action."
+  description="How to delete your Underdial data. There is no account, your collection lives on your device, so deletion is a local action."
   path="/delete-account"
 >
   <Fragment slot="head">
@@ -21,7 +21,7 @@ import { SITE } from '../consts';
   <h1>Delete Your Data</h1>
   <p class="effective">Underdial has no account. Your collection lives on your device, so you control deletion entirely.</p>
 
-  <h2>Option 1 &mdash; Reset From Inside the App (recommended)</h2>
+  <h2>Option 1: Reset From Inside the App (recommended)</h2>
   <ol>
     <li>Open Underdial on your iPhone.</li>
     <li>Tap the <strong>Settings</strong> tab.</li>
@@ -30,7 +30,7 @@ import { SITE } from '../consts';
   </ol>
   <p>Your box, wrist settings, and check history are removed immediately.</p>
 
-  <h2>Option 2 &mdash; Delete the App</h2>
+  <h2>Option 2: Delete the App</h2>
   <p>
     Because nothing is stored on our servers, deleting Underdial from your iPhone
     removes all of its local data along with it. There is no separate server-side

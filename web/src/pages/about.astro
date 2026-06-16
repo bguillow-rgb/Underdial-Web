@@ -11,13 +11,13 @@ const quickAnswer =
   'Underdial is an iOS app for watch buyers, built and run by one ' +
   'independent developer. You search any watch under $1,000 and it checks ' +
   'the piece against the collection you already own, your budget, and your ' +
-  'wrist size — then gives a plain verdict. It is not a retailer, not a ' +
+  'wrist size, then gives a plain verdict. It is not a retailer, not a ' +
   'scraper of competitor sites, and not an ad platform. The app makes ' +
   'money from an optional Plus subscription and retailer affiliate links.';
 ---
 <BaseLayout
   title="About"
-  description="About Underdial — who runs it, what it is, what it isn't, and how it makes money."
+  description="About Underdial, who runs it, what it is, what it isn't, and how it makes money."
   path="/about"
 >
   <Fragment slot="head">
@@ -28,7 +28,7 @@ const quickAnswer =
 
   <p class="brand">{SITE.name}</p>
   <h1>About Underdial</h1>
-  <p class="effective">A second opinion before you buy a watch — built and run by one person.</p>
+  <p class="effective">A second opinion before you buy a watch, built and run by one person.</p>
 
   <QuickAnswer text={quickAnswer} />
 
@@ -47,7 +47,7 @@ const quickAnswer =
   <p>
     Underdial is an iOS app for people buying watches under $1,000. You search
     the watch you are eyeing, and the WatchFit advisor checks it against the
-    watches you already own, your wrist size, and your budget &mdash; then tells
+    watches you already own, your wrist size, and your budget, then tells
     you whether it is a smart add, redundant, or the wrong fit, and reasons
     through why. It flags duplicate archetypes before you buy a second one,
     surfaces cheaper ways to the same style, and audits your whole box to show
@@ -83,10 +83,10 @@ const quickAnswer =
   <p>
     The sub-$1,000 watch buyer has nowhere good to turn. Forums are tribal and
     intimidating, retailer sites only ever say buy, and the big reference sites
-    are built for collectors trading five-figure pieces &mdash; not the person
+    are built for collectors trading five-figure pieces, not the person
     weighing a Seiko against a Tissot against a microbrand. Underdial is built
     for that buyer: it gives the kind of plain, self-interested-on-your-behalf
-    advice a good shop owner would &mdash; without ads, without scraping, and
+    advice a good shop owner would, without ads, without scraping, and
     without pushing you toward the most expensive option on the page.
   </p>
 
@@ -100,14 +100,14 @@ const quickAnswer =
   </p>
   <p>
     Articles are dated, and the date is updated only when the content
-    actually changes &mdash; not just to make the page look fresh.
+    actually changes, not just to make the page look fresh.
   </p>
 
   <h2>Contact</h2>
   <p>
     Press, partnership, or product feedback:
     <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
-    There is no DM channel &mdash; email is the canonical contact.
+    There is no DM channel, email is the canonical contact.
   </p>
 
   <Footer />

@@ -1,6 +1,6 @@
 ---
 title: "Automatic vs Quartz Watch Under $1,000: Which to Buy"
-description: "Automatic vs quartz for a watch under $1,000 — accuracy, maintenance, cost of ownership, and feel compared, so you pick the movement you'll actually be happy with."
+description: "Automatic vs quartz for a watch under $1,000, accuracy, maintenance, cost of ownership, and feel compared, so you pick the movement you'll actually be happy with."
 tier: "detail"
 targetQuery: "automatic vs quartz watch"
 relatedQueries:
@@ -22,11 +22,11 @@ faqs:
   - q: "What is Meca-Quartz and how does it compare?"
     a: "Meca-Quartz is a hybrid used mainly in chronographs: a quartz movement keeps time while a mechanical module drives the stopwatch, giving you a snappy, instant pusher feel and reset. It costs less than an automatic chronograph and needs a battery, but delivers much of the tactile satisfaction. It is a strong middle-ground choice."
   - q: "How much does it cost to service an automatic watch?"
-    a: "A full service for an automatic under $1,000 typically runs $150-$300 every four to six years, depending on the movement and watchmaker. Over a decade that is a real cost of ownership that quartz mostly avoids — quartz only needs an occasional battery, usually under $20 with a gasket check."
+    a: "A full service for an automatic under $1,000 typically runs $150-$300 every four to six years, depending on the movement and watchmaker. Over a decade that is a real cost of ownership that quartz mostly avoids, quartz only needs an occasional battery, usually under $20 with a gasket check."
 published: true
 ---
 
-The automatic-versus-quartz debate generates more heat than it deserves. Neither movement is objectively better; they are tools optimized for different priorities. The question is not which is superior — it is which one *you* will be happier owning.
+The automatic-versus-quartz debate generates more heat than it deserves. Neither movement is objectively better; they are tools optimized for different priorities. The question is not which is superior, it is which one *you* will be happier owning.
 
 Here is how the two compare on the things that actually affect daily ownership under $1,000.
 
@@ -38,9 +38,9 @@ A quartz movement runs on a battery that sends current through a quartz crystal 
 
 ## Which is more accurate?
 
-Quartz wins, and it is not close. A standard quartz movement keeps time to within roughly 15 seconds *per month*. A good automatic under $1,000 runs plus or minus 15-25 seconds *per day* — chronometer-grade examples do better, but they cost more.
+Quartz wins, and it is not close. A standard quartz movement keeps time to within roughly 15 seconds *per month*. A good automatic under $1,000 runs plus or minus 15-25 seconds *per day*, chronometer-grade examples do better, but they cost more.
 
-If you need a watch that is correct without thought, quartz delivers. If a few seconds of daily drift that you reset occasionally does not bother you — and for most enthusiasts it does not — the automatic's drift is part of the character, not a flaw.
+If you need a watch that is correct without thought, quartz delivers. If a few seconds of daily drift that you reset occasionally does not bother you, and for most enthusiasts it does not, the automatic's drift is part of the character, not a flaw.
 
 ## What does each cost to own over time?
 
@@ -64,6 +64,6 @@ It will not satisfy a purist who wants a fully mechanical movement, but for a su
 
 ## So which should you buy?
 
-Buy an **automatic** if you want the hobby — the sweeping hand, the self-winding mechanism, the sense of owning something traditional and serviceable — and you do not mind resetting it occasionally and budgeting for service. Buy **quartz** if you want maximum accuracy, minimum fuss, and the lowest cost of ownership, especially for a beater or travel watch. Consider **Meca-Quartz** specifically for a chronograph.
+Buy an **automatic** if you want the hobby, the sweeping hand, the self-winding mechanism, the sense of owning something traditional and serviceable, and you do not mind resetting it occasionally and budgeting for service. Buy **quartz** if you want maximum accuracy, minimum fuss, and the lowest cost of ownership, especially for a beater or travel watch. Consider **Meca-Quartz** specifically for a chronograph.
 
-There is no wrong answer, only the one that matches how you live. When you check a watch in [Underdial](/), the movement is one of the factors weighed against your existing box and budget — so if you already own three automatics, it might nudge you toward a quartz to round out the rotation. For the full buying framework, start with [how to buy a watch under $1,000](/articles/how-to-buy-a-watch-under-1000).
+There is no wrong answer, only the one that matches how you live. When you check a watch in [Underdial](/), the movement is one of the factors weighed against your existing box and budget, so if you already own three automatics, it might nudge you toward a quartz to round out the rotation. For the full buying framework, start with [how to buy a watch under $1,000](/articles/how-to-buy-a-watch-under-1000).

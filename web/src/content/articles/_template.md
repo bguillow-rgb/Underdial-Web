@@ -1,5 +1,5 @@
 ---
-title: "Sample article title — phrase like a question?"
+title: "Sample article title, phrase like a question?"
 description: "One-sentence description used for meta description and AI extraction. Keep under ~155 characters."
 tier: "detail"
 targetQuery: "exact target query this article ranks for"
@@ -20,7 +20,7 @@ published: false
 
 ## What should you look for first?
 
-Body content. Use H2s phrased as questions — they are the AI extraction
+Body content. Use H2s phrased as questions, they are the AI extraction
 targets. Keep each H2 section to roughly 134 to 167 self-contained words
 that fully answer the question, then cite a primary source every 150 to
 200 words.
@@ -31,8 +31,8 @@ Comparison tables get pulled into AI answers and rich results.
 
 | Archetype | Typical case size | Typical price under $1,000 |
 |---|---|---|
-| Dive watch | 40–44mm | $200–$800 |
-| Field watch | 36–40mm | $100–$500 |
+| Dive watch | 40-44mm | $200-$800 |
+| Field watch | 36-40mm | $100-$500 |
 
 Internal links to siblings: link to two or three related articles in the
 same cluster, with descriptive anchor text.
