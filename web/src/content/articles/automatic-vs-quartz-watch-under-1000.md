@@ -13,6 +13,7 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "how-to-buy-a-watch-under-1000"
+  - "how-to-build-a-watch-collection"
   - "watch-archetypes-explained"
 faqs:
   - q: "Is an automatic watch worth it under $1,000?"

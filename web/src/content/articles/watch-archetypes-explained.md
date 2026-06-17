@@ -12,6 +12,7 @@ quickAnswer: "The five core watch archetypes are the diver (sporty, water-ready)
 publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
+  - "how-to-build-a-watch-collection"
   - "how-to-buy-a-watch-under-1000"
   - "automatic-vs-quartz-watch-under-1000"
 faqs:

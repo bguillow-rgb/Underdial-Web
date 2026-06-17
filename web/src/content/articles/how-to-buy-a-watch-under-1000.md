@@ -13,6 +13,7 @@ quickAnswer: "To buy a watch under $1,000, start by fixing a real budget, then p
 publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
+  - "how-to-build-a-watch-collection"
   - "automatic-vs-quartz-watch-under-1000"
   - "watch-archetypes-explained"
 faqs:

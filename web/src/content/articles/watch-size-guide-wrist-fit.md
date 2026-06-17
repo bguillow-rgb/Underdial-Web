@@ -14,6 +14,7 @@ publishedAt: "2026-06-17"
 author: "Underdial"
 relatedSlugs:
   - "automatic-vs-quartz-watch-under-1000"
+  - "how-to-build-a-watch-collection"
   - "how-to-buy-a-watch-under-1000"
   - "watch-archetypes-explained"
 faqs:
