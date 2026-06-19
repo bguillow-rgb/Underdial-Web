@@ -15,6 +15,7 @@ author: "Bob Guillow"
 relatedSlugs:
   - "how-to-build-a-watch-collection"
   - "automatic-vs-quartz-watch-under-1000"
+  - "japanese-vs-swiss-watch"
   - "watch-archetypes-explained"
 faqs:
   - q: "What is the best watch to buy under $1,000?"

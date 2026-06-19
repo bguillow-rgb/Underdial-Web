@@ -15,6 +15,7 @@ author: "Underdial"
 relatedSlugs:
   - "how-to-buy-a-watch-under-1000"
   - "automatic-vs-quartz-watch-under-1000"
+  - "japanese-vs-swiss-watch"
   - "watch-archetypes-explained"
 faqs:
   - q: "How many watches do I need to have a 'collection'?"

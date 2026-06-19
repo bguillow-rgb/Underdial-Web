@@ -12,6 +12,7 @@ quickAnswer: "Under $1,000, an automatic watch winds from your wrist, has a swee
 publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
+  - "japanese-vs-swiss-watch"
   - "how-to-buy-a-watch-under-1000"
   - "how-to-build-a-watch-collection"
   - "watch-archetypes-explained"
