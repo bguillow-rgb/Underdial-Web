@@ -46,12 +46,12 @@ export const SITE = {
   // category: technical dials, steel cases, warm metal hands and indices on a
   // light, legible background.
   theme: {
-    bg: '#F5F6F8',      // cool light grey (matches app background)
-    card: '#FFFFFF',
-    text: '#1B2430',    // deep slate / ink
-    muted: '#566173',   // slate
-    accent: '#9C7A3C',  // antique brass
-    border: '#E2E6EC',
+    bg: '#0D1015',      // dial black (instrument background)
+    card: '#161C25',    // raised panel
+    text: '#ECEFF4',    // lume white
+    muted: '#9AA4B2',   // steel
+    accent: '#C9A24B',  // brass
+    border: '#2E3744',
   },
 };
 
