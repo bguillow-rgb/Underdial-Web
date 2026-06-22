@@ -14,8 +14,8 @@ author: "Bob Guillow"
 relatedSlugs:
   - "how-to-build-a-watch-collection"
   - "how-to-buy-a-watch-under-1000"
+  - "sapphire-vs-mineral-crystal-watch"
   - "automatic-vs-quartz-watch-under-1000"
-  - "how-to-read-watch-specs"
 faqs:
   - q: "What is the most versatile watch archetype?"
     a: "The dive watch is the most versatile single archetype because its sporty-but-clean design works with jeans, chinos, and most casual-to-business-casual settings. A 40mm diver on a steel bracelet or a NATO strap covers the widest range of occasions for most people, which is why it is the common recommendation for a first watch."

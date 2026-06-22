@@ -14,6 +14,7 @@ publishedAt: "2026-06-19"
 author: "Underdial"
 relatedSlugs:
   - "automatic-vs-quartz-watch-under-1000"
+  - "sapphire-vs-mineral-crystal-watch"
   - "how-to-build-a-watch-collection"
   - "how-to-buy-a-watch-under-1000"
 faqs:

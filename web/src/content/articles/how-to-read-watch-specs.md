@@ -13,6 +13,7 @@ quickAnswer: "Watch specs describe five things: the case (size, material, thickn
 publishedAt: "2026-06-20"
 author: "Underdial"
 relatedSlugs:
+  - "sapphire-vs-mineral-crystal-watch"
   - "watch-case-finishing-explained"
   - "watch-size-guide-wrist-fit"
   - "watch-archetypes-explained"
