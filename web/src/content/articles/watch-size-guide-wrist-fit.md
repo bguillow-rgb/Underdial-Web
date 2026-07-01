@@ -14,6 +14,7 @@ publishedAt: "2026-06-17"
 author: "Underdial"
 relatedSlugs:
   - "how-to-read-watch-specs"
+  - "watch-strap-types-guide"
   - "watch-case-finishing-explained"
 faqs:
   - q: "How do I measure my wrist for a watch?"
