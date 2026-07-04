@@ -15,6 +15,7 @@ author: "Underdial"
 relatedSlugs:
   - "how-to-read-watch-specs"
   - "watch-strap-types-guide"
+  - "titanium-vs-steel-watch-case"
   - "watch-case-finishing-explained"
 faqs:
   - q: "How do I measure my wrist for a watch?"
