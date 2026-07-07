@@ -13,10 +13,10 @@ quickAnswer: "Watch lume is the phosphorescent material on a dial's hands and in
 publishedAt: "2026-06-26"
 author: "Underdial"
 relatedSlugs:
+  - "watch-complications-explained"
   - "automatic-vs-quartz-watch-under-1000"
   - "how-often-to-service-a-watch"
   - "how-to-buy-a-watch-under-1000"
-  - "how-to-read-watch-specs"
 faqs:
   - q: "What does lume mean on a watch?"
     a: "Lume is shorthand for the luminescent material, usually a photoluminescent paint or self-powered gas tubes, applied to a watch's hands, hour markers, and sometimes the bezel to make them readable in low light or darkness."

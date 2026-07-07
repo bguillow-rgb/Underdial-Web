@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "how-to-read-watch-specs"
   - "japanese-vs-swiss-watch"
+  - "watch-complications-explained"
   - "watch-movement-nh35-vs-miyota-9015"
-  - "automatic-vs-quartz-watch-under-1000"
 faqs:
   - q: "What is the difference between sapphire and mineral crystal on a watch?"
     a: "Sapphire crystal is lab-grown synthetic corundum, rating 9 on the Mohs hardness scale, nearly as hard as diamond. Mineral crystal is tempered glass, rating around 5-6 on the same scale. Sapphire resists almost all everyday scratches; mineral will show marks from keys, desks, and grit within months of regular wear."
