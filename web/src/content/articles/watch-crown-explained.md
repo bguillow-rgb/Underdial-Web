@@ -16,7 +16,7 @@ relatedSlugs:
   - "sapphire-vs-mineral-crystal-watch"
   - "watch-archetypes-explained"
   - "watch-bezel-types-explained"
-  - "watch-lug-width-explained"
+  - "watch-dial-types-explained"
 faqs:
   - q: "What is the crown on a watch used for?"
     a: "The crown winds the mainspring on mechanical watches, sets the time and date, and adjusts extra complications like GMT or moonphase. On quartz watches it mainly sets the time and date. It's the primary physical interface between you and the movement."
