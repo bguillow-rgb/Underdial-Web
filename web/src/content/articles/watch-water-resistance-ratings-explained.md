@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-to-read-watch-specs"
   - "watch-bezel-types-explained"
   - "watch-complications-explained"
-  - "watch-lume-explained"
+  - "watch-jewels-explained"
 faqs:
   - q: "Can I swim with a 50m water-resistant watch?"
     a: "Most manufacturers advise against it. A 50m rating confirms the watch survived a static lab pressure test, not dynamic movement through water. Jumping into a pool or doing laps creates pressure spikes that can be three to four times higher than the equivalent static depth. For confident swimming, choose 100m minimum."

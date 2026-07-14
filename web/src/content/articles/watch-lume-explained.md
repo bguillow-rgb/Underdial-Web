@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "watch-movement-brands-explained"
   - "watch-complications-explained"
+  - "watch-jewels-explained"
   - "automatic-vs-quartz-watch-under-1000"
-  - "how-often-to-service-a-watch"
 faqs:
   - q: "What does lume mean on a watch?"
     a: "Lume is shorthand for the luminescent material, usually a photoluminescent paint or self-powered gas tubes, applied to a watch's hands, hour markers, and sometimes the bezel to make them readable in low light or darkness."

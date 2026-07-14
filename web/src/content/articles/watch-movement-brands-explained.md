@@ -13,10 +13,10 @@ quickAnswer: "The movement brand inside your watch, ETA, Sellita, Miyota, NH35, 
 publishedAt: "2026-07-11"
 author: "Underdial"
 relatedSlugs:
+  - "watch-jewels-explained"
   - "watch-lume-explained"
   - "watch-movement-nh35-vs-miyota-9015"
   - "automatic-vs-quartz-watch-under-1000"
-  - "japanese-vs-swiss-watch"
 faqs:
   - q: "Is a Sellita movement as good as an ETA?"
     a: "Yes, for daily wear purposes. The Sellita SW200 is dimensionally identical to the ETA 2824-2, runs at the same 28,800 vph, and is used by respected brands like Oris and Christopher Ward. The practical differences in accuracy and durability are negligible for most buyers."
