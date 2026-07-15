@@ -16,7 +16,7 @@ relatedSlugs:
   - "watch-complications-explained"
   - "sapphire-vs-mineral-crystal-watch"
   - "watch-archetypes-explained"
-  - "solar-watch-explained"
+  - "do-i-need-a-watch-winder"
 faqs:
   - q: "What is a watch bezel?"
     a: "The bezel is the ring that surrounds the watch crystal. It holds the crystal in place and, depending on its design, may carry a functional scale -- for timing dives, tracking a second time zone, measuring speed, or making calculations. Fixed bezels serve a purely decorative or protective role; rotating bezels add hands-on functionality."

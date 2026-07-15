@@ -13,10 +13,10 @@ quickAnswer: "Power reserve is how long a fully wound automatic or manual watch 
 publishedAt: "2026-07-02"
 author: "Underdial"
 relatedSlugs:
+  - "do-i-need-a-watch-winder"
   - "solar-watch-explained"
   - "watch-complications-explained"
   - "watch-jewels-explained"
-  - "automatic-vs-quartz-watch-under-1000"
 faqs:
   - q: "What does power reserve mean on a watch?"
     a: "Power reserve is the amount of time a mechanical watch will continue running after it has been fully wound -- either by wearing it (automatic) or turning the crown (manual). Once that stored energy is depleted, the watch stops until it is worn or wound again."
