@@ -13,10 +13,10 @@ quickAnswer: "Watch jewels are tiny synthetic ruby or sapphire bearings placed a
 publishedAt: "2026-07-14"
 author: "Underdial"
 relatedSlugs:
+  - "watch-movement-accuracy-explained"
   - "watch-movement-brands-explained"
   - "how-to-read-watch-specs"
   - "watch-archetypes-explained"
-  - "watch-lume-explained"
 faqs:
   - q: "What does '21 jewels' mean on a watch?"
     a: "It means the movement contains 21 synthetic ruby or sapphire bearings at friction points. The extra jewels beyond the baseline 17 typically support an automatic winding rotor and its reduction gears, or calendar functions, not decorative gems, and not a direct indicator of quality."

@@ -13,9 +13,9 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "japanese-vs-swiss-watch"
+  - "watch-movement-accuracy-explained"
   - "watch-movement-nh35-vs-miyota-9015"
   - "titanium-vs-steel-watch-case"
-  - "watch-complications-explained"
 faqs:
   - q: "Is an automatic watch worth it under $1,000?"
     a: "Yes, if you value the sweeping seconds hand, the self-winding mechanism, and the hobby of owning something mechanical. Expect accuracy of plus or minus 15-25 seconds per day and a service every five years or so. If accuracy and zero maintenance matter more to you, quartz is the better value."

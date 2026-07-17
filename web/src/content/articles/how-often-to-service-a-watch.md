@@ -16,7 +16,7 @@ relatedSlugs:
   - "automatic-vs-quartz-watch-under-1000"
   - "japanese-vs-swiss-watch"
   - "titanium-vs-steel-watch-case"
-  - "how-long-do-watches-last"
+  - "watch-movement-accuracy-explained"
 faqs:
   - q: "How often should I service an automatic watch?"
     a: "Most manufacturers suggest every 4--5 years, but modern lubricants and tightly-toleranced movements mean a well-kept watch that still runs accurately can safely go 6--7 years between services. Let performance guide you more than the calendar."

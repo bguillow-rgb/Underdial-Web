@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "automatic-vs-quartz-watch-under-1000"
   - "japanese-vs-swiss-watch"
+  - "watch-movement-accuracy-explained"
   - "sapphire-vs-mineral-crystal-watch"
-  - "watch-movement-brands-explained"
 faqs:
   - q: "Is the Miyota 9015 more accurate than the NH35?"
     a: "Out of the box, yes, the 9015's higher beat rate (28,800 bph vs 21,600 bph) and tighter factory tolerances give it a slight edge. However, a regulated NH35 can match or beat an unregulated 9015. Both movements regularly outperform their rated specs in daily wear, and any competent watchmaker can regulate either to ±5, 10 seconds per day."

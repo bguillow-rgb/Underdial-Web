@@ -16,7 +16,7 @@ relatedSlugs:
   - "automatic-vs-quartz-watch-under-1000"
   - "how-often-to-service-a-watch"
   - "japanese-vs-swiss-watch"
-  - "watch-movement-nh35-vs-miyota-9015"
+  - "watch-movement-accuracy-explained"
 faqs:
   - q: "How long does a quartz watch last?"
     a: "A well-made quartz watch typically lasts 20, 30 years. The movement itself is durable, but batteries need replacing every 2, 5 years. The long-term weak point is the electronic circuit board, once proprietary chips become unavailable, repairs may become impossible."
