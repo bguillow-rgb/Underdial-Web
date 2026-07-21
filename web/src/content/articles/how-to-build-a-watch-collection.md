@@ -14,9 +14,9 @@ publishedAt: "2026-06-17"
 author: "Underdial"
 relatedSlugs:
   - "how-to-buy-a-watch-under-1000"
+  - "tissot-vs-seiko"
   - "automatic-vs-quartz-watch-under-1000"
   - "japanese-vs-swiss-watch"
-  - "seiko-vs-orient-watch"
 faqs:
   - q: "How many watches do I need to have a 'collection'?"
     a: "Three is widely considered the practical minimum, one everyday, one dressy, one sporty. Forum consensus and collector surveys cluster around 3, 7 as the sweet spot for people who actually wear their watches. You don't need more than five to cover virtually every occasion under $1,000."
