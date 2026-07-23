@@ -13,10 +13,10 @@ quickAnswer: "Under $250, Orient wins on raw specs, sapphire crystal, 200m water
 publishedAt: "2026-07-20"
 author: "Underdial"
 relatedSlugs:
+  - "hamilton-vs-seiko"
   - "tissot-vs-seiko"
   - "japanese-vs-swiss-watch"
   - "watch-movement-nh35-vs-miyota-9015"
-  - "automatic-vs-quartz-watch-under-1000"
 faqs:
   - q: "Is Orient owned by Seiko?"
     a: "Yes, Orient became a wholly owned subsidiary of Seiko Holdings Corporation in 2017. However, Orient operates independently with its own design team, movement architecture, and pricing strategy. The two brands compete openly in the market."

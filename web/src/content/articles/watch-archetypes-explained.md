@@ -12,10 +12,10 @@ quickAnswer: "The five core watch archetypes are the diver (sporty, water-ready)
 publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
+  - "hamilton-vs-seiko"
   - "watch-bezel-types-explained"
   - "watch-dial-types-explained"
   - "watch-jewels-explained"
-  - "how-to-build-a-watch-collection"
 faqs:
   - q: "What is the most versatile watch archetype?"
     a: "The dive watch is the most versatile single archetype because its sporty-but-clean design works with jeans, chinos, and most casual-to-business-casual settings. A 40mm diver on a steel bracelet or a NATO strap covers the widest range of occasions for most people, which is why it is the common recommendation for a first watch."

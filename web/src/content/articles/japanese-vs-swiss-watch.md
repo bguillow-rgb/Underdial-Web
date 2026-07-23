@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "automatic-vs-quartz-watch-under-1000"
   - "tissot-vs-seiko"
+  - "hamilton-vs-seiko"
   - "watch-movement-nh35-vs-miyota-9015"
-  - "do-watches-hold-their-value"
 faqs:
   - q: "Are Japanese watches as reliable as Swiss watches?"
     a: "Yes. Movements like the Seiko NH35 and Miyota 9015 have decades of proven reliability. Japanese movements are known for durability and can last just as long as Swiss counterparts with proper care and periodic servicing."

@@ -13,10 +13,10 @@ quickAnswer: "Both are excellent under $1,000. Tissot wins on Swiss Made pedigre
 publishedAt: "2026-07-21"
 author: "Underdial"
 relatedSlugs:
+  - "hamilton-vs-seiko"
   - "japanese-vs-swiss-watch"
   - "seiko-vs-orient-watch"
   - "watch-movement-nh35-vs-miyota-9015"
-  - "do-watches-hold-their-value"
 faqs:
   - q: "Is Tissot better quality than Seiko?"
     a: "Neither brand is objectively better, they excel in different ways. Tissot delivers consistent Swiss Made finishing and sapphire crystal across most of its line. Seiko manufactures nearly everything in-house, including movements, dials, and crystals, which is extraordinarily rare at any price. Quality per dollar favors Seiko; Swiss prestige and polish favor Tissot."
