@@ -13,10 +13,10 @@ quickAnswer: "Hamilton wins on finishing, Swiss-made movements, and bracelet qua
 publishedAt: "2026-07-23"
 author: "Underdial"
 relatedSlugs:
+  - "citizen-vs-seiko"
   - "tissot-vs-seiko"
   - "seiko-vs-orient-watch"
   - "japanese-vs-swiss-watch"
-  - "automatic-vs-quartz-watch-under-1000"
 faqs:
   - q: "Is Hamilton better quality than Seiko?"
     a: "It depends on the price tier. Hamilton's Swiss-made movements and case finishing are marginally more refined above $500. Seiko's in-house calibers at equivalent prices offer strong reliability and deeper horological heritage, so 'better' is genuinely context-dependent."

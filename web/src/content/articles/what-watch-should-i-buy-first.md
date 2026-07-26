@@ -13,10 +13,10 @@ quickAnswer: "For most first-time buyers, a dive watch or field watch between $1
 publishedAt: "2026-07-25"
 author: "Underdial"
 relatedSlugs:
+  - "citizen-vs-seiko"
   - "how-to-build-a-watch-collection"
   - "tissot-vs-seiko"
   - "are-microbrand-watches-worth-buying"
-  - "hamilton-vs-seiko"
 faqs:
   - q: "Should my first watch be automatic or quartz?"
     a: "Either works -- quartz is more accurate and lower-maintenance; automatic is more emotionally satisfying to wear. If you'll wear it every day, both are fine. If it'll sit in a drawer for weeks at a time, quartz is the safer choice since it won't stop and need resetting."
