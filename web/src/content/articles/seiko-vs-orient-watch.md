@@ -16,7 +16,7 @@ relatedSlugs:
   - "citizen-vs-seiko"
   - "hamilton-vs-seiko"
   - "tissot-vs-seiko"
-  - "japanese-vs-swiss-watch"
+  - "tissot-prx-vs-seiko-presage"
 faqs:
   - q: "Is Orient owned by Seiko?"
     a: "Yes, Orient became a wholly owned subsidiary of Seiko Holdings Corporation in 2017. However, Orient operates independently with its own design team, movement architecture, and pricing strategy. The two brands compete openly in the market."
