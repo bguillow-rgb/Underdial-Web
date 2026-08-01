@@ -16,7 +16,7 @@ relatedSlugs:
   - "citizen-vs-orient"
   - "tissot-vs-seiko"
   - "hamilton-vs-seiko"
-  - "seiko-vs-orient-watch"
+  - "orient-vs-hamilton"
 faqs:
   - q: "Is Citizen or Seiko better for a first watch?"
     a: "It depends on what you want from a watch. If you want a mechanical automatic with collector appeal, start with Seiko — the Seiko 5 Sports is the benchmark at under $300. If you want a set-it-and-forget-it daily watch with no battery changes or winding, a Citizen Eco-Drive is the smarter first pick."

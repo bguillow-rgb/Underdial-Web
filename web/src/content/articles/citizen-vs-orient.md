@@ -14,9 +14,9 @@ publishedAt: "2026-08-01"
 author: "Underdial"
 relatedSlugs:
   - "citizen-vs-seiko"
+  - "orient-vs-hamilton"
   - "seiko-vs-orient-watch"
   - "hamilton-vs-seiko"
-  - "tissot-prx-vs-seiko-presage"
 faqs:
   - q: "Is Orient owned by Citizen?"
     a: "No. Orient is owned by Seiko Epson, not Citizen. Despite that corporate relationship, Orient designs and manufactures its own movement families independently and is not a rebadged Seiko product."
