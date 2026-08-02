@@ -13,10 +13,10 @@ quickAnswer: "A watch complication is any feature beyond basic hours, minutes, a
 publishedAt: "2026-07-07"
 author: "Underdial"
 relatedSlugs:
+  - "pre-owned-watch-vs-new"
   - "automatic-vs-quartz-watch-under-1000"
   - "japanese-vs-swiss-watch"
   - "how-to-buy-a-watch-under-1000"
-  - "sapphire-vs-mineral-crystal-watch"
 faqs:
   - q: "What is a watch complication?"
     a: "A complication is any function a watch performs beyond displaying hours, minutes, and seconds. This includes everything from a simple date window to a GMT hand, chronograph stopwatch, moonphase display, or power reserve indicator."
