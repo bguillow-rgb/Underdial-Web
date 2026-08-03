@@ -11,7 +11,9 @@ relatedQueries:
   - "when to wear watch on bracelet vs strap"
 quickAnswer: "A metal bracelet lasts longer, handles sweat and water without complaint, and stays looking sharp with minimal care. A leather strap is lighter, more comfortable out of the box, and dresses up easily. Most buyers under $1,000 do better starting with a bracelet, then adding straps later to vary the look."
 publishedAt: "2026-07-03"
+updatedAt: "2026-08-03"
 author: "Underdial"
+affiliate: true
 relatedSlugs:
   - "watch-strap-types-guide"
   - "tissot-prx-vs-seiko-presage"
@@ -38,6 +40,16 @@ The bracelet-vs-strap question sounds simple. It isn't. The answer changes depen
 The terminology trips up a lot of first-time buyers. A **bracelet** is a watch band made from linked pieces of metal, typically 316L stainless steel, though titanium shows up on premium models. A **strap** covers everything else: leather, rubber, nylon, NATO fabric, and canvas. The case attaches to either via spring bars seated in the lugs, with one key exception: integrated bracelets, where the band flows directly from the case geometry and can't realistically be swapped.
 
 For buyers in the under-$1,000 segment, integrated bracelets appear on a handful of watches. The Tissot PRX family is the most prominent example, and it's worth knowing about because it changes the buying calculus entirely. If you purchase an integrated-bracelet watch, you're committed to that look. Everything else gives you flexibility.
+
+If committed is what you want, here's the PRX our retail partners had in stock when we checked in August 2026. Watch Enclave is a UK shop that ships to the US, so the price is in pounds.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Tissot PRX 35mm Quartz, gold PVD</p>
+    <p class="buy-meta">Champagne dial &middot; integrated steel bracelet &middot; sapphire crystal &middot; 100m</p>
+  </div>
+  <a data-buy="tissot-prx-35-quartz" data-retailer="watchenclave" href="https://www.awin1.com/cread.php?awinmid=122382&awinaffid=2931103&clickref=udweb_bracelet-strap&ued=https%3A%2F%2Fwatchenclave.co.uk%2Fproducts%2Ftissot-t137-210-33-021-00" target="_blank" rel="sponsored noopener">£329 at Watch Enclave</a>
+</div>
 
 ## Which one actually lasts longer?
 
@@ -76,6 +88,24 @@ In summer, metal conducts heat and can feel uncomfortably warm against the skin 
 | Best climate | Any | Cool and dry | Hot and humid |
 
 One underrated point: a bracelet locks your watch into a single aesthetic. Swapping straps is the fastest, cheapest way to make one watch serve multiple roles. A Seiko 5 Sports on its stock bracelet reads sporty-casual. Drop it onto a dark green canvas NATO and it becomes a field-watch throwback. Put it on a tapered brown leather strap and it works at a dinner. Same watch, three wardrobes, for under $60 total in strap spend.
+
+The Seiko 5 Sports happens to make the bracelet-vs-strap decision unusually concrete, because the same 42.5mm watch ships both ways at nearly the same price. Both versions below were in stock when we checked in August 2026.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Seiko 5 Sports SRPD53K1, on bracelet</p>
+    <p class="buy-meta">Blue dial &middot; stainless steel bracelet &middot; 4R36 automatic &middot; 100m</p>
+  </div>
+  <a data-buy="seiko-srpd53k1" data-retailer="watchesofusa" href="https://www.awin1.com/cread.php?awinmid=116479&awinaffid=2931103&clickref=udweb_bracelet-strap&ued=https%3A%2F%2Fwatchesofusa.com%2Fproducts%2Fseiko-5-sports-srpd53k1-blue-dial-automatic-mens-watch" target="_blank" rel="sponsored noopener">$280 at Watches Of USA</a>
+</div>
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Seiko 5 Sports SRPD73K2, on strap</p>
+    <p class="buy-meta">Black dial &middot; black silicone strap &middot; 4R36 automatic &middot; 100m</p>
+  </div>
+  <a data-buy="seiko-srpd73k2" data-retailer="watchesofusa" href="https://www.awin1.com/cread.php?awinmid=116479&awinaffid=2931103&clickref=udweb_bracelet-strap&ued=https%3A%2F%2Fwatchesofusa.com%2Fproducts%2Fseiko-5-sports-srpd73k2-black-dial-automatic-mens-watch" target="_blank" rel="sponsored noopener">$270 at Watches Of USA</a>
+</div>
 
 ## Should I worry about bracelet quality on cheaper watches?
 

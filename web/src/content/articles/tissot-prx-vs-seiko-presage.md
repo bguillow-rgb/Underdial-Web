@@ -11,7 +11,9 @@ relatedQueries:
   - "swiss vs japanese automatic watch under 800"
 quickAnswer: "The Tissot PRX wins on integrated-bracelet style, an 80-hour power reserve, and Swiss provenance. The Seiko Presage wins on dial artistry, in-house movement heritage, and price-to-finishing ratio. Neither is objectively better, your choice hinges on whether you want a modern sports-dress look or a traditional Japanese dress watch."
 publishedAt: "2026-07-27"
+updatedAt: "2026-08-03"
 author: "Underdial"
+affiliate: true
 relatedSlugs:
   - "japanese-vs-swiss-watch"
   - "orient-vs-hamilton"
@@ -49,6 +51,24 @@ The PRX Automatic has developed a following for its tapisserie dial, angular cas
 
 The Cocktail Time references are where Seiko's dial work genuinely shows off. The sunburst lacquered dials, some inspired by bartending and others by Japanese enamel traditions, change character entirely as they catch light from different angles. Across the enthusiast community, not just in marketing copy, the Cocktail Time is recognized as having one of the best dials in affordable watchmaking. At roughly $400, 550 for most Presage automatics, you're getting dial finishing that would cost considerably more from a Swiss brand. That's the Presage's core value: it trades Swiss pedigree for Japanese craft, and for many buyers that's a winning trade.
 
+Two Cocktail Time references were in stock at our retail partners when we checked in August 2026. Watch Enclave is a UK shop that ships to the US in 3-5 business days; prices are in pounds and drift with stock.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Seiko Presage Cocktail Time SRPE15J1, 40.5mm</p>
+    <p class="buy-meta">Sunburst green "Mockingbird" dial &middot; steel bracelet &middot; made in Japan</p>
+  </div>
+  <a data-buy="seiko-srpe15j1" data-retailer="watchenclave" href="https://www.awin1.com/cread.php?awinmid=122382&awinaffid=2931103&clickref=udweb_prx-presage&ued=https%3A%2F%2Fwatchenclave.co.uk%2Fproducts%2Fseiko-srpe15j1" target="_blank" rel="sponsored noopener">£389 at Watch Enclave</a>
+</div>
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Seiko Presage Cocktail Time SRPE17J1, 40.5mm</p>
+    <p class="buy-meta">Dark grey "Espresso Martini" dial &middot; steel bracelet &middot; made in Japan</p>
+  </div>
+  <a data-buy="seiko-srpe17j1" data-retailer="watchenclave" href="https://www.awin1.com/cread.php?awinmid=122382&awinaffid=2931103&clickref=udweb_prx-presage&ued=https%3A%2F%2Fwatchenclave.co.uk%2Fproducts%2Fseiko-srpe17j1" target="_blank" rel="sponsored noopener">£389 at Watch Enclave</a>
+</div>
+
 ## "What's the real difference in movements between these two?"
 
 This is where the spec sheet diverges most clearly, and it's worth understanding before you buy.
@@ -77,6 +97,16 @@ On movement verdict: Tissot wins on power reserve (80 hours against 41 for the 4
 *This one comes up a lot:* The PRX Automatic at 40mm wears slightly smaller than its diameter suggests because the integrated bracelet hugs the wrist and reduces visual overhang. Tissot also offers the PRX in 35mm, which makes it one of the few integrated-bracelet automatics accessible to wrists under 6.5 inches. The Presage's standard-lug designs give you more flexibility in strap choice, letting you dial in fit and look more precisely.
 
 As a rule of thumb: if your wrist is under 6.25 inches, look at the 35mm PRX quartz or the Presage's slimmer references. Underdial's wrist-fit check runs this calculation automatically. Enter your wrist circumference and it flags watches that'll wear well versus those that'll look oversized on your arm.
+
+That 35mm quartz PRX is also the one our partners had in stock when we checked. The champagne-dial gold PVD version splits opinion, but on a small wrist it's one of the cheaper ways into the integrated-bracelet look with a sapphire crystal.
+
+<div class="buy-card">
+  <div>
+    <p class="buy-name">Tissot PRX 35mm Quartz, gold PVD</p>
+    <p class="buy-meta">Champagne dial &middot; integrated steel bracelet &middot; sapphire crystal &middot; 100m</p>
+  </div>
+  <a data-buy="tissot-prx-35-quartz" data-retailer="watchenclave" href="https://www.awin1.com/cread.php?awinmid=122382&awinaffid=2931103&clickref=udweb_prx-presage&ued=https%3A%2F%2Fwatchenclave.co.uk%2Fproducts%2Ftissot-t137-210-33-021-00" target="_blank" rel="sponsored noopener">£329 at Watch Enclave</a>
+</div>
 
 ## "Is the PRX really 'inspired by' luxury watches, or is that just marketing?"
 
