@@ -13,10 +13,10 @@ quickAnswer: "Most watches under $1,000 depreciate after purchase, typically los
 publishedAt: "2026-07-19"
 author: "Underdial"
 relatedSlugs:
+  - "best-dress-watch-under-500"
   - "japanese-vs-swiss-watch"
   - "tissot-vs-seiko"
   - "how-to-buy-a-watch-under-1000"
-  - "pre-owned-watch-vs-new"
 faqs:
   - q: "Do Seiko watches hold their value?"
     a: "Standard Seiko models depreciate like most production watches. However, discontinued references such as the SKX007 and SARB017 now trade above their original retail prices due to collector demand. Limited editions and Prospex dive models tend to hold value better than everyday catalogue pieces."
