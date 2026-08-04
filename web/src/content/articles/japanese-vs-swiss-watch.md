@@ -13,10 +13,10 @@ quickAnswer: "Japanese watches (Seiko, Citizen, Orient) deliver outstanding valu
 publishedAt: "2026-06-19"
 author: "Underdial"
 relatedSlugs:
+  - "nh35-vs-eta-2824"
   - "tissot-prx-vs-seiko-presage"
   - "automatic-vs-quartz-watch-under-1000"
   - "citizen-vs-seiko"
-  - "orient-vs-hamilton"
 faqs:
   - q: "Are Japanese watches as reliable as Swiss watches?"
     a: "Yes. Movements like the Seiko NH35 and Miyota 9015 have decades of proven reliability. Japanese movements are known for durability and can last just as long as Swiss counterparts with proper care and periodic servicing."

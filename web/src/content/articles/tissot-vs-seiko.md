@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "citizen-vs-seiko"
   - "hamilton-vs-seiko"
+  - "nh35-vs-eta-2824"
   - "tissot-prx-vs-seiko-presage"
-  - "japanese-vs-swiss-watch"
 faqs:
   - q: "Is Tissot better quality than Seiko?"
     a: "Neither brand is objectively better, they excel in different ways. Tissot delivers consistent Swiss Made finishing and sapphire crystal across most of its line. Seiko manufactures nearly everything in-house, including movements, dials, and crystals, which is extraordinarily rare at any price. Quality per dollar favors Seiko; Swiss prestige and polish favor Tissot."
