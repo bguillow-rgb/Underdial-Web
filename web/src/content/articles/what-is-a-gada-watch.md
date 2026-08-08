@@ -13,10 +13,10 @@ quickAnswer: "GADA stands for Go Anywhere, Do Anything, a single watch versatile
 publishedAt: "2026-07-18"
 author: "Underdial"
 relatedSlugs:
+  - "field-watch-vs-dive-watch"
   - "automatic-vs-quartz-watch-under-1000"
   - "do-watches-hold-their-value"
   - "how-to-build-a-watch-collection"
-  - "how-to-buy-a-watch-under-1000"
 faqs:
   - q: "What does GADA stand for in watches?"
     a: "GADA stands for Go Anywhere, Do Anything. It describes a single, versatile watch that works across formal, casual, sport, and travel settings without looking out of place in any of them."

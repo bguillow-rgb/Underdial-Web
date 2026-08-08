@@ -14,9 +14,9 @@ publishedAt: "2026-07-01"
 author: "Underdial"
 relatedSlugs:
   - "watch-bracelet-vs-strap"
+  - "field-watch-vs-dive-watch"
   - "tissot-prx-vs-seiko-presage"
   - "watch-archetypes-explained"
-  - "watch-bezel-types-explained"
 faqs:
   - q: "What is lug width and why does it matter for straps?"
     a: "Lug width is the gap between your watch's lugs, the 'ears' that hold the spring bars. It's measured in millimeters (most commonly 18, 19, 20, or 22 mm) and must match your strap exactly. A 20 mm strap won't fit an 18 mm watch. Check the caseback stamp or your watch's spec sheet; many manufacturers print the lug width directly on the existing strap."

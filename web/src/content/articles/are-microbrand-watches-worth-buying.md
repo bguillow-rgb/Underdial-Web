@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "pre-owned-watch-vs-new"
   - "citizen-vs-seiko"
+  - "field-watch-vs-dive-watch"
   - "hamilton-vs-seiko"
-  - "how-to-build-a-watch-collection"
 faqs:
   - q: "What exactly is a microbrand watch?"
     a: "A microbrand is a small, independent watch company, typically founded by one or two enthusiasts, that sells direct to consumers online, produces watches in limited batches, and sources components (movements, cases, crystals) from established suppliers rather than manufacturing everything in-house."
