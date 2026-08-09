@@ -17,8 +17,8 @@ affiliate: true
 relatedSlugs:
   - "watch-strap-types-guide"
   - "field-watch-vs-dive-watch"
+  - "pilot-watch-vs-field-watch"
   - "tissot-prx-vs-seiko-presage"
-  - "citizen-vs-orient"
 faqs:
   - q: "Is a metal bracelet or leather strap more comfortable for all-day wear?"
     a: "Leather is softer and lighter at first, but a well-fitted steel bracelet with a good clasp is equally comfortable once sized correctly. In hot weather, leather can feel sticky against the skin, giving the bracelet a genuine edge for summer or active wear."

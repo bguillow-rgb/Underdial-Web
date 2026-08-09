@@ -13,9 +13,9 @@ publishedAt: "2026-06-14"
 author: "Bob Guillow"
 relatedSlugs:
   - "field-watch-vs-dive-watch"
+  - "pilot-watch-vs-field-watch"
   - "hamilton-vs-seiko"
   - "orient-vs-hamilton"
-  - "tissot-prx-vs-seiko-presage"
 faqs:
   - q: "What is the most versatile watch archetype?"
     a: "The dive watch is the most versatile single archetype because its sporty-but-clean design works with jeans, chinos, and most casual-to-business-casual settings. A 40mm diver on a steel bracelet or a NATO strap covers the widest range of occasions for most people, which is why it is the common recommendation for a first watch."

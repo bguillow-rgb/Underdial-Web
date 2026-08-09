@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "watch-size-guide-wrist-fit"
   - "how-to-read-watch-specs"
+  - "pilot-watch-vs-field-watch"
   - "watch-archetypes-explained"
-  - "watch-bracelet-vs-strap"
 faqs:
   - q: "What is lug width on a watch?"
     a: "Lug width is the internal distance between the two lugs (also called horns) on one side of the watch case, the slot where the strap end sits. It is always measured in millimetres. Your replacement strap must match this number exactly."

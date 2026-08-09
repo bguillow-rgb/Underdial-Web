@@ -13,10 +13,10 @@ quickAnswer: "Field watches are the more versatile everyday choice, cleaner dial
 publishedAt: "2026-08-08"
 author: "Underdial"
 relatedSlugs:
+  - "pilot-watch-vs-field-watch"
   - "orient-vs-hamilton"
   - "citizen-vs-seiko"
   - "hamilton-vs-seiko"
-  - "nh35-vs-eta-2824"
 faqs:
   - q: "Can a field watch be used for swimming?"
     a: "Most field watches are rated 50m, 100m water resistance, which is fine for rain, splashing, and short swims. They're not suited for scuba diving. If you swim regularly, a dedicated dive watch with 200m rating and a screw-down crown is a safer choice."
