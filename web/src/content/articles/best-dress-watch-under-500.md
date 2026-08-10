@@ -13,10 +13,10 @@ quickAnswer: "The Orient Bambino is the best dress watch under $500 for most buy
 publishedAt: "2026-08-03"
 author: "Underdial"
 relatedSlugs:
+  - "seiko-5-vs-orient-bambino"
   - "tissot-prx-vs-seiko-presage"
   - "citizen-vs-orient"
   - "do-watches-hold-their-value"
-  - "japanese-vs-swiss-watch"
 faqs:
   - q: "What is the best dress watch under $500 for everyday wear?"
     a: "The Orient Bambino handles everyday wear well for a dress watch, though its 30m water resistance means you should remove it before washing dishes or getting caught in rain. For a slightly more robust daily wearer, the Seiko Presage (50m WR, Hardlex crystal) is the better choice."
