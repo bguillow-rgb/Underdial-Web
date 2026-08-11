@@ -13,10 +13,10 @@ quickAnswer: "Most buyers are well-served by 1-6 watches. One covers everything 
 publishedAt: "2026-07-22"
 author: "Underdial"
 relatedSlugs:
+  - "do-i-need-a-chronograph-watch"
   - "how-to-build-a-watch-collection"
   - "do-i-need-a-watch-winder"
   - "watch-jewels-explained"
-  - "are-microbrand-watches-worth-buying"
 faqs:
   - q: "Is owning just one watch enough?"
     a: "Absolutely. A single well-chosen watch (ideally a versatile 38-41mm automatic or quartz with at least 100m water resistance) can handle work, weekends, and most formal occasions. Many experienced collectors return to a one-watch philosophy after years of buying and selling."
