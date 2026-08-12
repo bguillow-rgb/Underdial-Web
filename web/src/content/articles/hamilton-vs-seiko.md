@@ -15,10 +15,10 @@ updatedAt: "2026-08-03"
 author: "Underdial"
 affiliate: true
 relatedSlugs:
+  - "longines-vs-hamilton"
   - "orient-vs-hamilton"
   - "citizen-vs-seiko"
   - "tissot-vs-seiko"
-  - "nh35-vs-eta-2824"
 faqs:
   - q: "Is Hamilton better quality than Seiko?"
     a: "It depends on the price tier. Hamilton's Swiss-made movements and case finishing are marginally more refined above $500. Seiko's in-house calibers at equivalent prices offer strong reliability and deeper horological heritage, so 'better' is genuinely context-dependent."

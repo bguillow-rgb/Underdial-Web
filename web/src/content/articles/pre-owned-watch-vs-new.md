@@ -16,7 +16,7 @@ relatedSlugs:
   - "are-microbrand-watches-worth-buying"
   - "automatic-vs-quartz-watch-under-1000"
   - "how-to-buy-a-watch-under-1000"
-  - "titanium-vs-steel-watch-case"
+  - "longines-vs-hamilton"
 faqs:
   - q: "Is it safe to buy a pre-owned watch online?"
     a: "Yes, if you use a reputable platform with buyer protection, Chrono24 Trusted Checkout, WatchBox, or Watchfinder are widely trusted. Avoid unverified private sellers on social media or forums unless you can verify authenticity independently and have a return option."

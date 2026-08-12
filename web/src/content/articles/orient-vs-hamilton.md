@@ -13,10 +13,10 @@ quickAnswer: "Orient delivers more watch per dollar, in-house movements, sapphir
 publishedAt: "2026-08-01"
 author: "Underdial"
 relatedSlugs:
+  - "longines-vs-hamilton"
   - "citizen-vs-orient"
   - "hamilton-vs-seiko"
   - "citizen-vs-seiko"
-  - "tissot-prx-vs-seiko-presage"
 faqs:
   - q: "Is Orient or Hamilton better for a first automatic watch?"
     a: "Orient is the safer first buy. The Bambino or Mako II gives you a fully in-house automatic movement, sapphire crystal, and proven reliability for under $250. If your budget stretches to $500, $700 and you want Swiss finishing from day one, the Hamilton Khaki Field Auto is a worthy step up."

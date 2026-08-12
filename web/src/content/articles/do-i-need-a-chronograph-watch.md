@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "titanium-vs-steel-watch-case"
   - "are-microbrand-watches-worth-buying"
+  - "longines-vs-hamilton"
   - "pre-owned-watch-vs-new"
-  - "watch-complications-explained"
 faqs:
   - q: "What does a chronograph watch actually do?"
     a: "A chronograph is a standard watch with a built-in stopwatch. Pushers on the case let you start, stop, and reset elapsed time. Some models include a tachymeter scale on the bezel for calculating speed or distance."
