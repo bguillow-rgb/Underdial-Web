@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "do-i-need-a-chronograph-watch"
   - "longines-vs-hamilton"
+  - "mido-vs-tissot"
   - "pre-owned-watch-vs-new"
-  - "automatic-vs-quartz-watch-under-1000"
 faqs:
   - q: "Is a titanium watch worth the extra cost over steel?"
     a: "Usually yes, if you wear a large case all day or have a nickel sensitivity. The weight reduction is most noticeable on 42mm+ cases with full metal bracelets. On smaller, leather-strapped watches the real-world comfort difference is modest. If you mainly wear socially and want the best value per dollar, steel is outstanding."
