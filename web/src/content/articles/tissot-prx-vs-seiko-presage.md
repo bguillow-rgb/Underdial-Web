@@ -15,10 +15,10 @@ updatedAt: "2026-08-03"
 author: "Underdial"
 affiliate: true
 relatedSlugs:
+  - "certina-vs-tissot"
   - "japanese-vs-swiss-watch"
   - "nh35-vs-eta-2824"
   - "orient-vs-hamilton"
-  - "seiko-5-vs-orient-bambino"
 faqs:
   - q: "Is the Tissot PRX worth the extra money over the Seiko Presage?"
     a: "It depends what you're paying for. The PRX Powermatic 80 costs roughly $150, 200 more than a comparable Presage automatic, and you get a longer power reserve (80 hrs vs 41, 70 hrs), anti-magnetic Nivachron spring, and sapphire crystal as standard. If the integrated bracelet and Swiss movement justify that premium to you, yes. If you prefer dial depth and finishing over spec-sheet wins, the Presage delivers more visual complexity per dollar."

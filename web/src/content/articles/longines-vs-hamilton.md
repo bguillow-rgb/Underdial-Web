@@ -16,7 +16,7 @@ relatedSlugs:
   - "hamilton-vs-seiko"
   - "mido-vs-tissot"
   - "orient-vs-hamilton"
-  - "citizen-vs-seiko"
+  - "certina-vs-tissot"
 faqs:
   - q: "Are Longines and Hamilton owned by the same company?"
     a: "Yes. Both brands sit under the Swatch Group umbrella, which gives them access to the same ETA movement supply chain. Longines occupies a higher prestige tier, which is reflected in its pricing and finishing quality."

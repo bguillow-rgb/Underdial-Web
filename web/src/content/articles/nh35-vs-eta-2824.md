@@ -13,10 +13,10 @@ quickAnswer: "The NH35 is the smarter buy for most under-$1,000 watches: it's mo
 publishedAt: "2026-08-04"
 author: "Underdial"
 relatedSlugs:
+  - "certina-vs-tissot"
   - "citizen-vs-seiko"
   - "japanese-vs-swiss-watch"
   - "tissot-prx-vs-seiko-presage"
-  - "tissot-vs-seiko"
 faqs:
   - q: "Is the ETA 2824-2 more accurate than the NH35?"
     a: "On paper, yes, the ETA 2824-2's higher beat rate (28,800 vph) gives it a slight theoretical accuracy edge. In practice, accuracy depends far more on how well the brand regulated the movement after casing. A well-regulated NH35 watch can outperform a poorly regulated ETA 2824-2 watch. Check the brand's stated accuracy spec, not just the caliber name."
