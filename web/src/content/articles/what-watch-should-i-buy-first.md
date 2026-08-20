@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "citizen-vs-seiko"
   - "how-to-build-a-watch-collection"
+  - "christopher-ward-vs-seiko"
   - "field-watch-vs-dive-watch"
-  - "nh35-vs-eta-2824"
 faqs:
   - q: "Should my first watch be automatic or quartz?"
     a: "Either works -- quartz is more accurate and lower-maintenance; automatic is more emotionally satisfying to wear. If you'll wear it every day, both are fine. If it'll sit in a drawer for weeks at a time, quartz is the safer choice since it won't stop and need resetting."

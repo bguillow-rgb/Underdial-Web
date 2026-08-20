@@ -13,10 +13,10 @@ quickAnswer: "Microbrand watches are often worth buying under $1,000, they routi
 publishedAt: "2026-07-24"
 author: "Underdial"
 relatedSlugs:
+  - "christopher-ward-vs-seiko"
   - "pre-owned-watch-vs-new"
   - "citizen-vs-seiko"
   - "do-i-need-a-chronograph-watch"
-  - "field-watch-vs-dive-watch"
 faqs:
   - q: "What exactly is a microbrand watch?"
     a: "A microbrand is a small, independent watch company, typically founded by one or two enthusiasts, that sells direct to consumers online, produces watches in limited batches, and sources components (movements, cases, crystals) from established suppliers rather than manufacturing everything in-house."
