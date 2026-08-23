@@ -14,9 +14,9 @@ publishedAt: "2026-08-14"
 author: "Underdial"
 relatedSlugs:
   - "orient-vs-hamilton"
+  - "oris-vs-longines"
   - "are-homage-watches-worth-buying"
   - "are-microbrand-watches-worth-buying"
-  - "certina-vs-tissot"
 faqs:
   - q: "What watch size is safe to buy as a gift without knowing the recipient's wrist?"
     a: "A 38, 40mm case diameter is the most universally flattering size for men's or unisex gifting. It sits proportionally on smaller wrists and doesn't look undersized on average wrists. Avoid going above 42mm unless you're certain the recipient prefers a larger watch."
