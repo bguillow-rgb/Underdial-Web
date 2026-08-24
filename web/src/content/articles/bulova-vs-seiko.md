@@ -13,10 +13,10 @@ quickAnswer: "Seiko is the stronger all-around choice for most buyers under $1,0
 publishedAt: "2026-08-19"
 author: "Underdial"
 relatedSlugs:
+  - "casio-vs-seiko"
   - "citizen-vs-seiko"
   - "seiko-vs-orient-watch"
   - "tissot-vs-seiko"
-  - "hamilton-vs-seiko"
 faqs:
   - q: "Is Bulova a better brand than Seiko?"
     a: "Neither brand is strictly 'better', they excel in different areas. Seiko leads in movement variety, dive watches, and long-term collector value. Bulova leads in bold design and its proprietary Precisionist quartz accuracy. For most first-time buyers, Seiko's deeper entry-level catalogue gives it the edge."
