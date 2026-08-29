@@ -13,10 +13,10 @@ quickAnswer: "Watch case thickness ranges from about 6mm (ultra-thin dress watch
 publishedAt: "2026-07-16"
 author: "Underdial"
 relatedSlugs:
+  - "watch-case-size-38mm-vs-40mm-vs-42mm"
   - "pilot-watch-vs-field-watch"
   - "titanium-vs-steel-watch-case"
   - "watch-size-guide-wrist-fit"
-  - "are-homage-watches-worth-buying"
 faqs:
   - q: "What is a good watch case thickness for everyday wear?"
     a: "For most people, 9-12mm works well as an all-day thickness. It's comfortable under casual sleeves, sits low on the wrist, and suits both dress and sport contexts without feeling chunky."
