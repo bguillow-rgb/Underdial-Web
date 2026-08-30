@@ -16,7 +16,7 @@ relatedSlugs:
   - "casio-vs-seiko"
   - "how-to-read-watch-specs"
   - "seiko-mod-watches-explained"
-  - "watch-case-thickness-explained"
+  - "watch-brand-hierarchy-explained"
 faqs:
   - q: "What is the difference between brushed and polished watch finishing?"
     a: "Brushed finishing creates a matte, directional texture by dragging an abrasive across metal, which hides scratches well. Polished finishing creates a mirror-like shine that looks stunning but shows every mark. Most quality watches combine both -- brushed tops on lugs, polished bevels -- to create visual contrast and depth."
