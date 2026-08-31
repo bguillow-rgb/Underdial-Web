@@ -10,7 +10,7 @@ relatedQueries:
   - "meca quartz vs automatic"
 quickAnswer: "Under $1,000, an automatic watch winds from your wrist, has a sweeping seconds hand, and runs about plus or minus 15-25 seconds a day with a service every few years. A quartz watch is accurate to seconds per month, needs only a battery, and costs far less to own. Choose automatic for the mechanical hobby, quartz for low-maintenance daily wear."
 publishedAt: "2026-06-14"
-author: "Bob Guillow"
+author: "Underdial"
 relatedSlugs:
   - "japanese-vs-swiss-watch"
   - "pre-owned-watch-vs-new"

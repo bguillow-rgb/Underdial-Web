@@ -11,7 +11,7 @@ relatedQueries:
   - "watch buying advice"
 quickAnswer: "To buy a watch under $1,000, start by fixing a real budget, then pick one archetype (diver, field, dress, chronograph, or GMT) that fits how you actually dress. Choose a movement you can live with, size the case to your wrist, and check the piece against what you already own so you don't buy the same watch twice."
 publishedAt: "2026-06-14"
-author: "Bob Guillow"
+author: "Underdial"
 relatedSlugs:
   - "pre-owned-watch-vs-new"
   - "how-to-build-a-watch-collection"

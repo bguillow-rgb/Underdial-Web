@@ -10,7 +10,7 @@ relatedQueries:
   - "dress watch vs sports watch"
 quickAnswer: "The five core watch archetypes are the diver (sporty, water-ready), the field watch (rugged, smaller, casual), the dress watch (slim, formal), the chronograph (a stopwatch on the wrist), and the GMT (tracks a second time zone). Each suits a different slice of how you dress and live, pick the one that fills the gap in your rotation."
 publishedAt: "2026-06-14"
-author: "Bob Guillow"
+author: "Underdial"
 relatedSlugs:
   - "field-watch-vs-dive-watch"
   - "pilot-watch-vs-field-watch"
