@@ -16,7 +16,7 @@ relatedSlugs:
   - "watch-bezel-types-explained"
   - "watch-complications-explained"
   - "do-i-need-a-watch-winder"
-  - "pilot-watch-vs-field-watch"
+  - "is-a-dive-watch-worth-it"
 faqs:
   - q: "What does GMT stand for on a watch?"
     a: "GMT stands for Greenwich Mean Time, the universal time reference the complication was designed around. The watch displays a second time zone, originally set to GMT, using a dedicated 24-hour hand, though you can set that hand to any zone you like."

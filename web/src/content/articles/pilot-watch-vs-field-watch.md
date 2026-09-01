@@ -14,9 +14,9 @@ publishedAt: "2026-08-09"
 author: "Underdial"
 relatedSlugs:
   - "field-watch-vs-dive-watch"
+  - "is-a-dive-watch-worth-it"
   - "orient-vs-hamilton"
   - "are-homage-watches-worth-buying"
-  - "christopher-ward-vs-seiko"
 faqs:
   - q: "What is the main difference between a pilot watch and a field watch?"
     a: "Pilot watches were originally built for cockpit visibility, larger cases (42mm+), oversized crowns, high-contrast dials, and sometimes aviation complications like slide rules or GMT. Field watches were built for soldiers on land, smaller (34, 40mm), simpler dials, matte finishes, and no unnecessary features."

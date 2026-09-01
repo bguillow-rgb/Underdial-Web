@@ -13,10 +13,10 @@ quickAnswer: "Homage watches can be worth buying if execution quality is high an
 publishedAt: "2026-08-21"
 author: "Underdial"
 relatedSlugs:
+  - "is-a-dive-watch-worth-it"
   - "are-microbrand-watches-worth-buying"
   - "christopher-ward-vs-seiko"
   - "do-i-need-a-chronograph-watch"
-  - "field-watch-vs-dive-watch"
 faqs:
   - q: "What is the difference between a homage watch and a fake watch?"
     a: "A homage watch takes design inspiration from an iconic model but carries its own brand name and makes no attempt to pass itself off as the original. A fake (counterfeit) watch copies the logo, model name, and all markings to deceive buyers into thinking it's authentic. Homage watches are legal; counterfeits are not."

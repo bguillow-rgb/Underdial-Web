@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "watch-strap-types-guide"
   - "field-watch-vs-dive-watch"
+  - "is-a-dive-watch-worth-it"
   - "pilot-watch-vs-field-watch"
-  - "watch-bracelet-vs-strap"
 faqs:
   - q: "Is a black or blue dial more versatile?"
     a: "Black edges out blue for pure versatility -- it transitions from a gym to a boardroom without a second thought. Blue is a close second and adds more character, but very bright blues can feel casual-only. Navy blue is nearly as flexible as black."

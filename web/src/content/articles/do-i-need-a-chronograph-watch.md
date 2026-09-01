@@ -13,10 +13,10 @@ quickAnswer: "Most buyers don't need a chronograph, your phone times things bett
 publishedAt: "2026-08-11"
 author: "Underdial"
 relatedSlugs:
+  - "is-a-dive-watch-worth-it"
   - "titanium-vs-steel-watch-case"
   - "are-homage-watches-worth-buying"
   - "are-microbrand-watches-worth-buying"
-  - "longines-vs-hamilton"
 faqs:
   - q: "What does a chronograph watch actually do?"
     a: "A chronograph is a standard watch with a built-in stopwatch. Pushers on the case let you start, stop, and reset elapsed time. Some models include a tachymeter scale on the bezel for calculating speed or distance."
