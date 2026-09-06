@@ -16,7 +16,7 @@ relatedSlugs:
   - "longines-vs-hamilton"
   - "oris-vs-longines"
   - "certina-vs-tissot"
-  - "hamilton-vs-seiko"
+  - "seiko-5-sports-vs-seiko-presage"
 faqs:
   - q: "Are Mido and Tissot the same brand?"
     a: "No, they are separate brands but both owned by the Swatch Group. They share movement architecture (the Powermatic 80 platform) but operate distinct design identities, price tiers, and distribution strategies. Mido leans quieter and more classic; Tissot is broader and more mass-market."
