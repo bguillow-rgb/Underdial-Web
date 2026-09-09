@@ -16,7 +16,7 @@ relatedSlugs:
   - "how-many-watches-should-i-own"
   - "how-to-build-a-watch-collection"
   - "watch-jewels-explained"
-  - "how-to-wind-a-watch"
+  - "how-to-store-a-watch"
 faqs:
   - q: "How many watches is too many?"
     a: "There's no universal number. The real signal is rotation: if watches are sitting unworn for months at a time, your collection has outgrown your actual lifestyle. Most everyday wearers find four to six watches covers every occasion without redundancy."
