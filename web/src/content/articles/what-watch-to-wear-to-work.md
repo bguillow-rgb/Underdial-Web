@@ -13,10 +13,10 @@ quickAnswer: "Match your watch to your dress code: a slim dress watch or underst
 publishedAt: "2026-08-31"
 author: "Underdial"
 relatedSlugs:
+  - "what-watch-to-wear-to-a-job-interview"
   - "field-watch-vs-dive-watch"
   - "how-to-buy-a-watch-under-1000"
   - "is-a-dive-watch-worth-it"
-  - "seiko-5-vs-orient-bambino"
 faqs:
   - q: "Can I wear a dive watch to work?"
     a: "Yes, in business-casual and smart-casual offices. A clean diver like the Seiko 5 Sports on a leather or NATO strap reads as polished rather than sporty. Avoid it with a formal suit, the bezel and bulk break the silhouette under a cuff."
