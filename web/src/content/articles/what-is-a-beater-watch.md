@@ -13,10 +13,10 @@ quickAnswer: "A beater watch is any watch you strap on without worrying about da
 publishedAt: "2026-09-03"
 author: "Underdial"
 relatedSlugs:
+  - "best-everyday-watch-under-300"
   - "citizen-vs-orient"
   - "do-i-need-a-chronograph-watch"
   - "gmt-watch-explained"
-  - "is-a-dive-watch-worth-it"
 faqs:
   - q: "What does 'beater watch' mean?"
     a: "A beater watch is one you wear without anxiety in situations where it might get scratched, bumped, or wet. The term comes from watch communities and describes a mindset, wear it hard, don't baby it, rather than a specific type or price point."
