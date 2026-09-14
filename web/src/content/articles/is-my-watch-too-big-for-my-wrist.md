@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "watch-case-size-38mm-vs-40mm-vs-42mm"
   - "watch-size-guide-wrist-fit"
+  - "best-watch-for-small-wrists"
   - "watch-case-thickness-explained"
-  - "how-to-read-watch-specs"
 faqs:
   - q: "How do I know if a watch is too big for my wrist without trying it on?"
     a: "Measure your wrist circumference, divide by π (3.14) to get wrist width, then multiply by 0.75, that's your maximum comfortable case diameter. Also look up the lug-to-lug distance in the specs; it should sit within or at the edges of your wrist width, not beyond them."

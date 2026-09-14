@@ -14,9 +14,9 @@ publishedAt: "2026-06-17"
 author: "Underdial"
 relatedSlugs:
   - "is-my-watch-too-big-for-my-wrist"
+  - "best-watch-for-small-wrists"
   - "watch-case-size-38mm-vs-40mm-vs-42mm"
   - "watch-lug-width-explained"
-  - "watch-case-thickness-explained"
 faqs:
   - q: "How do I measure my wrist for a watch?"
     a: "Wrap a flexible tape measure snugly just above your wrist bone — where the watch will actually sit — and note the circumference in inches or millimetres. A strip of paper and a ruler works just as well if you don't have a tape. The average male wrist runs 7.0–7.25 inches; the average female wrist is around 6.0–6.5 inches."

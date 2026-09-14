@@ -13,10 +13,10 @@ quickAnswer: "For most buyers, 40mm is the safest starting point, it sits well o
 publishedAt: "2026-08-29"
 author: "Underdial"
 relatedSlugs:
+  - "best-watch-for-small-wrists"
   - "is-my-watch-too-big-for-my-wrist"
   - "watch-size-guide-wrist-fit"
   - "nh35-vs-eta-2824"
-  - "seiko-5-sports-vs-seiko-presage"
 faqs:
   - q: "Is a 40mm watch too big for a small wrist?"
     a: "It depends more on lug-to-lug distance than diameter. A 40mm watch with short, curved lugs (under 47mm lug-to-lug) can wear very comfortably on a 6.5\" wrist. A 38mm watch with long, straight lugs can overhang the same wrist. Always check lug-to-lug before buying."
