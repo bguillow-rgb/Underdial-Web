@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-invicta-worth-buying"
   - "are-homage-watches-worth-buying"
+  - "are-grey-market-watches-worth-buying"
   - "are-microbrand-watches-worth-buying"
-  - "do-watches-hold-their-value"
 faqs:
   - q: "Are Michael Kors watches good quality?"
     a: "Michael Kors watches are made by the Fossil Group and use basic Japanese quartz movements, typically worth a few dollars wholesale. They are stylish and wearable but are fashion accessories first, not serious timepieces. Build quality is adequate for everyday fashion wear but falls short under heavy use or long-term ownership."
