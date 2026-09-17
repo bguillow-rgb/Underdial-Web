@@ -13,10 +13,10 @@ quickAnswer: "Certina and Tissot are Swatch Group siblings sharing ETA-based mov
 publishedAt: "2026-08-15"
 author: "Underdial"
 relatedSlugs:
+  - "hamilton-vs-tissot"
   - "longines-vs-hamilton"
   - "tissot-prx-vs-seiko-presage"
   - "mido-vs-tissot"
-  - "nh35-vs-eta-2824"
 faqs:
   - q: "Are Certina and Tissot the same quality?"
     a: "They're very close. Both use ETA/Powermatic 80 movements from within the Swatch Group. Some forum owners report Certina has a slight edge in case finishing and build robustness; Tissot counters with better bracelet refinement on premium lines like the PRX. On pure durability, Certina's DS concept gives it an engineering edge."

@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "longines-vs-hamilton"
   - "mido-vs-tissot"
+  - "hamilton-vs-tissot"
   - "certina-vs-tissot"
-  - "pre-owned-watch-vs-new"
 faqs:
   - q: "Is Oris a prestigious watch brand?"
     a: "Yes, Oris is respected in the watch community as a fiercely independent Swiss maker committed to mechanical-only movements. It's not a household name like Rolex, but enthusiasts regard it highly for quality and engineering honesty."
