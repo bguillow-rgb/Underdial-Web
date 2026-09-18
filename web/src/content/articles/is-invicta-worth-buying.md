@@ -16,7 +16,7 @@ relatedSlugs:
   - "are-fashion-watches-worth-buying"
   - "are-homage-watches-worth-buying"
   - "are-microbrand-watches-worth-buying"
-  - "do-watches-hold-their-value"
+  - "are-skeleton-watches-worth-buying"
 faqs:
   - q: "Is Invicta a legitimate watch brand?"
     a: "Yes, Invicta has genuine Swiss roots dating to 1837, but the modern company repositioned as a high-volume, TV-shopping brand in the 1990s. It is a real brand, not a scam, but its marketing tactics (fake inflated MSRPs, 80-90% 'discounts') are widely criticised by collectors."
