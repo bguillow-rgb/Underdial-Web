@@ -13,10 +13,10 @@ quickAnswer: "Both are outstanding Japanese automatics in the $300-$600 range. C
 publishedAt: "2026-08-16"
 author: "Underdial"
 relatedSlugs:
+  - "orient-bambino-vs-seiko-presage"
   - "tissot-prx-vs-seiko-presage"
   - "citizen-vs-seiko"
   - "nh35-vs-eta-2824"
-  - "orient-vs-hamilton"
 faqs:
   - q: "Is Orient Star better than Seiko Presage?"
     a: "Dollar for dollar, Orient Star generally offers more decoration - exhibition casebacks, power reserve displays, and finer bracelet finishing - at a comparable price. Seiko Presage counters with more dial options, wider retailer availability, and stronger resale recognition. 'Better' depends on what you value."
