@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "christopher-ward-vs-seiko"
   - "is-invicta-worth-buying"
+  - "nh35-vs-nh38"
   - "pre-owned-watch-vs-new"
-  - "solar-watch-explained"
 faqs:
   - q: "What is a Seiko mod watch?"
     a: "A Seiko mod is a watch built around a genuine Seiko automatic movement -- most commonly the NH35 or NH36 -- with the case, dial, hands, bezel, and crystal replaced by aftermarket or custom components. The result is a new-looking watch that shares no external parts with any factory Seiko model, but runs on a proven, serviceable Japanese movement."
