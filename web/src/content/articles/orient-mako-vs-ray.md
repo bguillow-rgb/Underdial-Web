@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "citizen-vs-orient"
   - "orient-bambino-vs-seiko-presage"
+  - "seiko-prospex-vs-citizen-promaster"
   - "seiko-5-vs-orient-bambino"
-  - "seiko-presage-vs-orient-star"
 faqs:
   - q: "What is the main difference between the Orient Mako II and Orient Ray II?"
     a: "The core specs are almost identical -- both are 41.5mm automatics with 200m water resistance and the Orient F6922 calibre. The difference is purely aesthetic: the Mako II has Arabic numerals at 3, 6, and 9 and bar-shaped hands, while the Ray II uses round dot indices and polished centre bracelet links for a cleaner look."
