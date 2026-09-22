@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "citizen-vs-seiko"
   - "seiko-prospex-vs-citizen-promaster"
+  - "are-integrated-bracelet-watches-worth-buying"
   - "are-skeleton-watches-worth-buying"
-  - "citizen-vs-orient"
 faqs:
   - q: "Do solar watches ever need a battery replacement?"
     a: "They don't use a disposable battery, but the rechargeable capacitor or lithium-ion cell that stores the solar energy will eventually degrade, typically after 10-20 years of use. Replacement is straightforward and usually costs $30-$80 at a service centre. That's far less frequent than the 1-3 year battery swap cycle of standard quartz."
