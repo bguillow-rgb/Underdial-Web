@@ -14,9 +14,9 @@ publishedAt: "2026-09-12"
 author: "Underdial"
 relatedSlugs:
   - "best-dress-watch-under-500"
+  - "best-watch-under-200"
   - "seiko-5-vs-orient-bambino"
   - "citizen-vs-orient"
-  - "orient-bambino-vs-seiko-presage"
 faqs:
   - q: "What is the best automatic watch under $300?"
     a: "The Orient Kamasu and Seiko 5 Sports are the top two at this price. The Kamasu has an in-house movement, sapphire crystal, and 200m water resistance for around $230. The Seiko 5 Sports trades the sapphire for Hardlex glass but offers more dial variety and a stronger global service network."
