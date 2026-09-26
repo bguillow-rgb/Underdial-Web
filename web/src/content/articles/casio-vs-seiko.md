@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "citizen-vs-seiko"
   - "bulova-vs-seiko"
+  - "timex-vs-seiko"
   - "seiko-vs-orient-watch"
-  - "hamilton-vs-seiko"
 faqs:
   - q: "Is Casio or Seiko better quality?"
     a: "They excel in different areas. Casio leads in quartz accuracy, shock resistance, and feature density at low prices. Seiko leads in finishing quality, automatic movement engineering, and design variety. Neither is universally 'better' -- it depends on whether you value utility or craftsmanship more."
