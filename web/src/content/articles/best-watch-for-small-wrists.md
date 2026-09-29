@@ -13,10 +13,10 @@ quickAnswer: "For a small wrist (under 6.5 in / 165mm), look for a lug-to-lug di
 publishedAt: "2026-09-14"
 author: "Underdial"
 relatedSlugs:
+  - "best-watch-for-large-wrists"
   - "watch-case-size-38mm-vs-40mm-vs-42mm"
   - "is-my-watch-too-big-for-my-wrist"
   - "watch-size-guide-wrist-fit"
-  - "how-to-build-a-watch-collection"
 faqs:
   - q: "What case size is best for a small wrist?"
     a: "Case diameter is only part of the answer. For wrists under 6.5 inches (165mm), prioritize a lug-to-lug distance under 46mm. Most watches in the 36, 40mm range will meet that target, but always check the lug-to-lug spec in the listing before buying."
