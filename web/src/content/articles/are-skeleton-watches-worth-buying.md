@@ -16,7 +16,7 @@ relatedSlugs:
   - "are-homage-watches-worth-buying"
   - "are-integrated-bracelet-watches-worth-buying"
   - "do-i-need-a-chronograph-watch"
-  - "are-microbrand-watches-worth-buying"
+  - "is-orient-a-good-watch-brand"
 faqs:
   - q: "What is the difference between a skeleton watch and an open-heart watch?"
     a: "A full skeleton watch removes most of the dial and skeletonizes the movement plates and bridges, exposing the entire mechanism. An open-heart watch simply has a cutout, usually at 6 or 12 o'clock, revealing just the balance wheel. Open-heart watches are easier to read; skeleton watches offer more visual drama."
