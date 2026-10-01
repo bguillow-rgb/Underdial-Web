@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "best-dress-watch-under-500"
   - "is-invicta-worth-buying"
+  - "is-longines-a-good-watch-brand"
   - "japanese-vs-swiss-watch"
-  - "tissot-vs-seiko"
 faqs:
   - q: "Do Seiko watches hold their value?"
     a: "Standard Seiko models depreciate like most production watches. However, discontinued references such as the SKX007 and SARB017 now trade above their original retail prices due to collector demand. Limited editions and Prospex dive models tend to hold value better than everyday catalogue pieces."
