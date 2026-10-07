@@ -13,10 +13,10 @@ quickAnswer: "Orient Star is worth buying for collectors who want a fully in-hou
 publishedAt: "2026-10-05"
 author: "Underdial"
 relatedSlugs:
+  - "is-seiko-5-worth-buying"
   - "is-orient-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
   - "seiko-presage-vs-orient-star"
-  - "are-fashion-watches-worth-buying"
 faqs:
   - q: "What is the difference between Orient and Orient Star?"
     a: "Orient is the entry-level line with mineral crystals and ~40-hour power reserves, priced mostly $100-$400. Orient Star is the premium line: sapphire crystal front and back, 50-70-hour power reserve, hand-windable and hacking movements, and finer case finishing -- starting around $400-$500 and climbing past $800 for current automatic models."

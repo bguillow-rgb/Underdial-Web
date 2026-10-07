@@ -13,10 +13,10 @@ quickAnswer: "Yes, Orient is a genuinely good watch brand. It manufactures its o
 publishedAt: "2026-09-30"
 author: "Underdial"
 relatedSlugs:
+  - "is-seiko-5-worth-buying"
   - "is-invicta-worth-buying"
   - "is-seiko-a-good-watch-brand"
   - "are-fashion-watches-worth-buying"
-  - "is-orient-star-worth-buying"
 faqs:
   - q: "Who owns Orient watches?"
     a: "Orient is owned by Seiko Epson and operates as part of the Seiko Group. It remains a distinct brand with its own factories and in-house movements, but benefits from Seiko's manufacturing infrastructure and quality standards."
