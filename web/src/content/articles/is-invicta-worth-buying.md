@@ -13,10 +13,10 @@ quickAnswer: "Invicta is worth buying in one narrow case: the Pro Diver automati
 publishedAt: "2026-08-26"
 author: "Underdial"
 relatedSlugs:
+  - "is-swatch-worth-buying"
   - "is-orient-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
   - "are-fashion-watches-worth-buying"
-  - "is-longines-a-good-watch-brand"
 faqs:
   - q: "Is Invicta a legitimate watch brand?"
     a: "Yes, Invicta has genuine Swiss roots dating to 1837, but the modern company repositioned as a high-volume, TV-shopping brand in the 1990s. It is a real brand, not a scam, but its marketing tactics (fake inflated MSRPs, 80-90% 'discounts') are widely criticised by collectors."
