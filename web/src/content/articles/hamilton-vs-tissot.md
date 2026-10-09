@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "certina-vs-tissot"
   - "longines-vs-hamilton"
+  - "frederique-constant-vs-tissot"
   - "hamilton-khaki-field-vs-tissot-prx"
-  - "mido-vs-tissot"
 faqs:
   - q: "Are Hamilton and Tissot the same quality?"
     a: "Yes, broadly. Both are Swiss-made Swatch Group brands using the same ETA and Powermatic 80 movements, with similar sapphire crystals and case finishing at comparable price points. Neither holds a meaningful quality edge over the other, the differences are design philosophy and brand identity."

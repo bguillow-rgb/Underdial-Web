@@ -16,7 +16,7 @@ relatedSlugs:
   - "pre-owned-watch-vs-new"
   - "automatic-vs-quartz-watch-under-1000"
   - "do-i-need-a-chronograph-watch"
-  - "japanese-vs-swiss-watch"
+  - "frederique-constant-vs-tissot"
 faqs:
   - q: "What is a watch complication?"
     a: "A complication is any function a watch performs beyond displaying hours, minutes, and seconds. This includes everything from a simple date window to a GMT hand, chronograph stopwatch, moonphase display, or power reserve indicator."
