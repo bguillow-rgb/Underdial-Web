@@ -16,7 +16,7 @@ relatedSlugs:
   - "should-i-insure-my-watch"
   - "do-i-need-a-chronograph-watch"
   - "is-a-dive-watch-worth-it"
-  - "is-citizen-eco-drive-worth-buying"
+  - "is-casio-g-shock-worth-buying"
 faqs:
   - q: "Can a watch winder damage my automatic watch?"
     a: "A quality winder set to the correct TPD and rotation direction is safe. The bigger risk is a cheap winder with an unshielded motor that can magnetise the movement. Modern automatics can't be overwound, a built-in mainspring bridle disengages once the spring is fully tensioned."

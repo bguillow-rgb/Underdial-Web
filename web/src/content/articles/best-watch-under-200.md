@@ -16,7 +16,7 @@ relatedSlugs:
   - "best-everyday-watch-under-300"
   - "best-dress-watch-under-500"
   - "best-watch-under-500"
-  - "is-invicta-worth-buying"
+  - "is-casio-g-shock-worth-buying"
 faqs:
   - q: "Can you get an automatic watch for under $200?"
     a: "Yes. The Seiko 5 Sports (SRPD series) and Orient Bambino both deliver genuine in-house automatic movements under or right at $200, with sweeping seconds hands and no battery to replace."
