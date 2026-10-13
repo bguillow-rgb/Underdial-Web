@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-invicta-worth-buying"
   - "is-longines-a-good-watch-brand"
+  - "is-oris-a-good-watch-brand"
   - "is-swatch-worth-buying"
-  - "are-fashion-watches-worth-buying"
 faqs:
   - q: "Is a G-Shock a good everyday watch?"
     a: "Yes. The GA-2100 CasiOak and DW-5600 series are among the best everyday watches under $150. They handle sweat, shocks, and water without complaint, and their battery life, typically 2, 5 years, means zero daily maintenance."
