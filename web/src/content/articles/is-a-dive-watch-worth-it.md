@@ -16,7 +16,7 @@ relatedSlugs:
   - "are-homage-watches-worth-buying"
   - "do-i-need-a-chronograph-watch"
   - "field-watch-vs-dive-watch"
-  - "are-microbrand-watches-worth-buying"
+  - "is-seiko-turtle-worth-buying"
 faqs:
   - q: "Do I need to be a diver to buy a dive watch?"
     a: "No. The vast majority of dive watch owners never scuba dive. Dive watches are popular because they are rugged, water-resistant, easy to read, and versatile enough to wear in almost any setting."

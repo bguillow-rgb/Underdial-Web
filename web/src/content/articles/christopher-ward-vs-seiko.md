@@ -14,9 +14,9 @@ publishedAt: "2026-08-20"
 author: "Underdial"
 relatedSlugs:
   - "seiko-5-sports-vs-seiko-presage"
+  - "is-seiko-turtle-worth-buying"
   - "seiko-presage-vs-orient-star"
   - "are-homage-watches-worth-buying"
-  - "are-microbrand-watches-worth-buying"
 faqs:
   - q: "Is Christopher Ward as reliable as Seiko?"
     a: "Yes, in daily use both brands are highly reliable. Christopher Ward typically uses Swiss Sellita movements, which are robust and well-supported. Seiko uses its own in-house movements (NH35, NH38, 6R series). Both have strong service networks, though Seiko's global footprint makes servicing easier in more countries."
