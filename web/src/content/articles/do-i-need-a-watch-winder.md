@@ -14,9 +14,9 @@ publishedAt: "2026-07-15"
 author: "Underdial"
 relatedSlugs:
   - "is-a-moon-phase-watch-worth-it"
+  - "is-swiss-made-worth-it"
   - "should-i-insure-my-watch"
   - "do-i-need-a-chronograph-watch"
-  - "is-a-dive-watch-worth-it"
 faqs:
   - q: "Can a watch winder damage my automatic watch?"
     a: "A quality winder set to the correct TPD and rotation direction is safe. The bigger risk is a cheap winder with an unshielded motor that can magnetise the movement. Modern automatics can't be overwound, a built-in mainspring bridle disengages once the spring is fully tensioned."
