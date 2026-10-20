@@ -14,9 +14,9 @@ publishedAt: "2026-08-11"
 author: "Underdial"
 relatedSlugs:
   - "is-a-dive-watch-worth-it"
+  - "is-a-mechanical-watch-worth-it"
   - "titanium-vs-steel-watch-case"
   - "are-homage-watches-worth-buying"
-  - "are-skeleton-watches-worth-buying"
 faqs:
   - q: "What does a chronograph watch actually do?"
     a: "A chronograph is a standard watch with a built-in stopwatch. Pushers on the case let you start, stop, and reset elapsed time. Some models include a tachymeter scale on the bezel for calculating speed or distance."

@@ -13,10 +13,10 @@ quickAnswer: "Swiss Made is legally meaningful, a watch must have a Swiss moveme
 publishedAt: "2026-10-19"
 author: "Underdial"
 relatedSlugs:
+  - "is-a-mechanical-watch-worth-it"
   - "are-grey-market-watches-worth-buying"
   - "are-homage-watches-worth-buying"
   - "casio-vs-seiko"
-  - "certina-vs-tissot"
 faqs:
   - q: "What does Swiss Made legally require on a watch?"
     a: "Since 2017, a watch must have a Swiss movement, be assembled in Switzerland, and pass quality inspection there. At least 60% of manufacturing costs must originate in Switzerland. The rules tightened significantly from the looser pre-2017 standard."

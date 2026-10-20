@@ -14,9 +14,9 @@ publishedAt: "2026-09-08"
 author: "Underdial"
 relatedSlugs:
   - "do-i-need-a-chronograph-watch"
+  - "is-a-mechanical-watch-worth-it"
   - "smartwatch-vs-regular-watch"
   - "titanium-vs-steel-watch-case"
-  - "christopher-ward-vs-seiko"
 faqs:
   - q: "Does a date window make a watch more expensive?"
     a: "Not usually under $1,000. Most affordable movements like the Seiko NH35 or Miyota 9015 include a date mechanism by default, making dated versions cheaper to produce than true no-date variants. No-date models sometimes cost slightly more because they require a different movement or a blanked-off date wheel."
