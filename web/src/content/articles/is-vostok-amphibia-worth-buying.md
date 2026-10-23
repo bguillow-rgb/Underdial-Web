@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-casio-edifice-worth-buying"
   - "is-citizen-eco-drive-worth-buying"
+  - "is-orient-kamasu-worth-buying"
   - "is-seiko-turtle-worth-buying"
-  - "are-fashion-watches-worth-buying"
 faqs:
   - q: "How accurate is the Vostok Amphibia?"
     a: "Vostok's own spec sheet lists, 20 to +60 seconds per day for the 2409A movement, and real-world results vary widely. Some examples run within ±5 s/d straight out of the box; others need regulation. Don't rely on it as a precision timekeeping tool."
