@@ -16,7 +16,7 @@ relatedSlugs:
   - "is-mido-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
   - "are-fashion-watches-worth-buying"
-  - "is-invicta-worth-buying"
+  - "is-baltic-a-good-watch-brand"
 faqs:
   - q: "Is Tissot considered a luxury watch brand?"
     a: "Tissot is classified as entry-level Swiss luxury, it carries the legally protected 'Swiss Made' label and over 170 years of heritage, but it sits below mid-luxury brands like Longines and TAG Heuer in terms of price and prestige. Think of it as the top of the accessible tier, not the bottom of the luxury one."
