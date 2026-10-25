@@ -13,10 +13,10 @@ quickAnswer: "To buy a watch under $1,000, start by fixing a real budget, then p
 publishedAt: "2026-06-14"
 author: "Underdial"
 relatedSlugs:
+  - "is-a-vintage-watch-worth-buying"
   - "pre-owned-watch-vs-new"
   - "best-travel-watch-under-500"
   - "frederique-constant-vs-tissot"
-  - "hamilton-vs-tissot"
 faqs:
   - q: "What is the best watch to buy under $1,000?"
     a: "There is no single best, it depends on the gap in your rotation. For a versatile first watch, a 38-40mm automatic diver or field watch from Seiko, Tissot, Citizen, or Orient covers the most occasions. If you already own a sporty watch, a slim dress watch is usually the smarter next buy than a second diver."

@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "are-homage-watches-worth-buying"
   - "is-a-mechanical-watch-worth-it"
+  - "is-a-vintage-watch-worth-buying"
   - "are-microbrand-watches-worth-buying"
-  - "do-i-need-a-chronograph-watch"
 faqs:
   - q: "Are grey market watches fake or counterfeit?"
     a: "No. Grey market watches are 100% genuine, brand-new watches. They are the same pieces an authorized dealer sells, they've simply moved through an unofficial distribution channel. Counterfeit watches are an entirely different and illegal category."

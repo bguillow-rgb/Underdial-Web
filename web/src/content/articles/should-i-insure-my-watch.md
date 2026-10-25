@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "do-i-need-a-chronograph-watch"
   - "how-often-to-service-a-watch"
+  - "is-a-vintage-watch-worth-buying"
   - "are-homage-watches-worth-buying"
-  - "do-i-need-a-watch-winder"
 faqs:
   - q: "Does homeowners or renters insurance cover my watch?"
     a: "Partially. Most home and renters policies cap jewelry and watch payouts at $1,000, $2,000 total, not per item. They also rarely cover mysterious loss or accidental damage, only theft. If your watch costs more than that cap, you need a scheduled rider or separate policy."
