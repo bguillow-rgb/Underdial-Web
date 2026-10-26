@@ -16,7 +16,7 @@ relatedSlugs:
   - "sapphire-vs-mineral-crystal-watch"
   - "watch-water-resistance-ratings-explained"
   - "watch-jewels-explained"
-  - "watch-lug-width-explained"
+  - "watch-lug-to-lug-explained"
 faqs:
   - q: "What does '100M water resistant' actually mean for daily use?"
     a: "A 100M (10 ATM) rating is safe for swimming and snorkelling but not scuba diving. Static lab tests are used to set the rating, so real-world pressure from impact or a fast-moving wrist can exceed the stated depth. Treat the rating as a guide, not a guarantee, and never dive beyond the watch's stated limit."
