@@ -13,10 +13,10 @@ quickAnswer: "To wind a manual watch, remove it from your wrist, turn the crown 
 publishedAt: "2026-09-02"
 author: "Underdial"
 relatedSlugs:
+  - "best-sports-watch-under-500"
   - "how-often-to-service-a-watch"
   - "how-to-store-a-watch"
   - "is-a-mechanical-watch-worth-it"
-  - "orient-bambino-vs-seiko-presage"
 faqs:
   - q: "Can you overwind an automatic watch?"
     a: "No. Modern automatic watches have a slipping-clutch mechanism that disengages when the mainspring is fully wound, so the crown just turns freely without adding tension. You cannot break the spring by winding too much -- but repeatedly winding past the slip point does add unnecessary wear to the clutch over years."

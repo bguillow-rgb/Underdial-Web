@@ -13,10 +13,10 @@ quickAnswer: "Store watches in individual cushioned compartments inside a watch 
 publishedAt: "2026-09-09"
 author: "Underdial"
 relatedSlugs:
+  - "best-sports-watch-under-500"
   - "how-to-wind-a-watch"
   - "automatic-vs-quartz-watch-under-1000"
   - "best-dress-watch-under-500"
-  - "best-everyday-watch-under-300"
 faqs:
   - q: "Is it okay to store watches in their original boxes?"
     a: "Yes, manufacturer boxes are fine short-term, but they often lack ventilation and stack poorly. Once you own more than two or three watches, a proper multi-slot watch box or roll makes daily access and rotation much easier."

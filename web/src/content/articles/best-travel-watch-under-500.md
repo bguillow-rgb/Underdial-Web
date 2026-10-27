@@ -13,10 +13,10 @@ quickAnswer: "The best travel watch under $500 is durable, highly legible, water
 publishedAt: "2026-10-04"
 author: "Underdial"
 relatedSlugs:
+  - "best-sports-watch-under-500"
   - "how-to-buy-a-watch-as-a-gift"
   - "how-to-buy-a-watch-under-1000"
   - "orient-vs-hamilton"
-  - "tissot-prx-vs-citizen-tsuyosa"
 faqs:
   - q: "Do I need a GMT watch for travel?"
     a: "Not necessarily. A GMT complication is genuinely useful if you're tracking two time zones simultaneously, useful for frequent flyers or remote workers. But for most casual travelers, a durable, legible single-zone watch is perfectly sufficient. You can always set your watch to local time on arrival."
