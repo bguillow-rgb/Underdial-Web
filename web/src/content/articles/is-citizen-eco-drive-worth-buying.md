@@ -13,10 +13,10 @@ quickAnswer: "Yes. Citizen Eco-Drive is worth buying for most people who want a 
 publishedAt: "2026-10-03"
 author: "Underdial"
 relatedSlugs:
+  - "is-citizen-a-good-watch-brand"
   - "solar-watch-explained"
   - "is-vostok-amphibia-worth-buying"
   - "are-fashion-watches-worth-buying"
-  - "is-casio-edifice-worth-buying"
 faqs:
   - q: "Does a Citizen Eco-Drive ever need a battery replacement?"
     a: "Rarely. The rechargeable cell is designed to last 10, 20+ years with normal light exposure. When it eventually degrades, replacement is inexpensive, far cheaper than servicing an automatic. Most owners never deal with it at all."

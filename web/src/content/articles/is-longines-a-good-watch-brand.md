@@ -16,7 +16,7 @@ relatedSlugs:
   - "is-oris-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
   - "is-swatch-worth-buying"
-  - "is-invicta-worth-buying"
+  - "is-citizen-a-good-watch-brand"
 faqs:
   - q: "Is Longines considered a luxury brand?"
     a: "Longines sits at the lower tier of genuine Swiss luxury -- above everyday brands like Tissot and Hamilton, but well below Rolex or Omega. Most collectors call it 'accessible luxury' or 'mid-range luxury.' The Swiss Made credential and 190+ year history are real, but the movements at this price tier are ETA-based rather than true manufacture calibers."

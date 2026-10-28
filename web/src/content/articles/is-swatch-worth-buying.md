@@ -14,9 +14,9 @@ publishedAt: "2026-10-08"
 author: "Underdial"
 relatedSlugs:
   - "is-invicta-worth-buying"
+  - "is-citizen-a-good-watch-brand"
   - "is-orient-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
-  - "are-fashion-watches-worth-buying"
 faqs:
   - q: "Are Swatch watches actually Swiss-made?"
     a: "Yes. Every Swatch carries a genuine Swiss Made designation, meaning the movement is Swiss-assembled and regulated, and final casing and inspection happen in Switzerland. That's rare at $60-$250 and is one of the brand's strongest selling points."

@@ -14,9 +14,9 @@ publishedAt: "2026-10-24"
 author: "Underdial"
 relatedSlugs:
   - "are-fashion-watches-worth-buying"
+  - "is-citizen-a-good-watch-brand"
   - "is-invicta-worth-buying"
   - "is-mido-a-good-watch-brand"
-  - "is-orient-a-good-watch-brand"
 faqs:
   - q: "Where are Baltic watches made?"
     a: "Baltic watches are designed in France and assembled in Besançon, France. Components are manufactured in China, while straps and accessories are made in Italy."

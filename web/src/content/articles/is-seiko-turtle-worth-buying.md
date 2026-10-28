@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-orient-kamasu-worth-buying"
   - "is-seiko-alpinist-worth-buying"
+  - "is-citizen-a-good-watch-brand"
   - "is-orient-star-worth-buying"
-  - "is-swatch-worth-buying"
 faqs:
   - q: "What is the Seiko Turtle, exactly?"
     a: "The Seiko Turtle is a cushion-cased automatic dive watch in Seiko's Prospex line. The current 'King Turtle' (reference SRPE03) has a 45mm case, 200m water resistance, ISO 6425 dive certification, sapphire crystal, ceramic bezel, and Seiko's in-house 4R36 movement with hacking and hand-winding."

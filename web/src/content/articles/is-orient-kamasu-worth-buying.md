@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-seiko-turtle-worth-buying"
   - "is-swatch-worth-buying"
+  - "is-citizen-a-good-watch-brand"
   - "is-invicta-worth-buying"
-  - "is-orient-a-good-watch-brand"
 faqs:
   - q: "How much does the Orient Kamasu cost?"
     a: "MSRP sits between $525 and $580 depending on dial and strap, but street prices at authorized dealers regularly land in the $335, $400 range, making the real-world cost considerably lower than the sticker."
