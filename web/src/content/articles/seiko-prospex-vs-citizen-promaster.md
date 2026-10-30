@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "citizen-vs-seiko"
   - "citizen-vs-orient"
+  - "is-seiko-prospex-worth-buying"
   - "orient-bambino-vs-seiko-presage"
-  - "seiko-presage-vs-orient-star"
 faqs:
   - q: "Is the Seiko Prospex or Citizen Promaster more accurate?"
     a: "The Citizen Promaster, especially Eco-Drive Sky models with radio/atomic timekeeping, is more accurate, within ±15 seconds per month or effectively perfect with signal sync. Seiko Prospex automatics using the 4R or 6R series typically run ±15 seconds per day, which is normal for mechanical watches at this price."
