@@ -13,10 +13,10 @@ quickAnswer: "Yes. Christopher Ward is a genuinely good watch brand, British-fou
 publishedAt: "2026-10-31"
 author: "Underdial"
 relatedSlugs:
+  - "is-hamilton-a-good-watch-brand"
   - "is-invicta-worth-buying"
   - "is-mido-a-good-watch-brand"
   - "is-orient-a-good-watch-brand"
-  - "is-seiko-a-good-watch-brand"
 faqs:
   - q: "Are Christopher Ward watches Swiss made?"
     a: "Yes. Christopher Ward merged with its Swiss manufacturing partner Synergies Horlogeres in 2014, and all current watches carry a genuine Swiss Made designation with movements assembled and regulated in Switzerland."
