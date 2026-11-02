@@ -14,9 +14,9 @@ publishedAt: "2026-09-30"
 author: "Underdial"
 relatedSlugs:
   - "is-citizen-a-good-watch-brand"
+  - "is-fossil-a-good-watch-brand"
   - "is-seiko-5-worth-buying"
   - "is-hamilton-a-good-watch-brand"
-  - "is-invicta-worth-buying"
 faqs:
   - q: "Who owns Orient watches?"
     a: "Orient is owned by Seiko Epson and operates as part of the Seiko Group. It remains a distinct brand with its own factories and in-house movements, but benefits from Seiko's manufacturing infrastructure and quality standards."

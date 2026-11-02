@@ -14,9 +14,9 @@ publishedAt: "2026-10-02"
 author: "Underdial"
 relatedSlugs:
   - "is-hamilton-a-good-watch-brand"
+  - "is-fossil-a-good-watch-brand"
   - "is-invicta-worth-buying"
   - "is-orient-a-good-watch-brand"
-  - "is-oris-a-good-watch-brand"
 faqs:
   - q: "Is Seiko considered a luxury watch brand?"
     a: "Standard Seiko is not a luxury brand, it's a high-value manufacturer covering entry to upper-mid price points. Its sibling brand Grand Seiko, however, operates as a separate, genuinely luxury marque starting above $3,000."

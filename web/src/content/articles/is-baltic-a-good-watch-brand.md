@@ -16,7 +16,7 @@ relatedSlugs:
   - "are-fashion-watches-worth-buying"
   - "is-christopher-ward-a-good-watch-brand"
   - "is-citizen-a-good-watch-brand"
-  - "is-hamilton-a-good-watch-brand"
+  - "is-fossil-a-good-watch-brand"
 faqs:
   - q: "Where are Baltic watches made?"
     a: "Baltic watches are designed in France and assembled in Besançon, France. Components are manufactured in China, while straps and accessories are made in Italy."

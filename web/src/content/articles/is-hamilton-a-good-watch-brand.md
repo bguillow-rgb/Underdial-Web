@@ -16,7 +16,7 @@ relatedSlugs:
   - "is-seiko-a-good-watch-brand"
   - "is-tissot-a-good-watch-brand"
   - "is-christopher-ward-a-good-watch-brand"
-  - "is-invicta-worth-buying"
+  - "is-fossil-a-good-watch-brand"
 faqs:
   - q: "Is Hamilton a luxury watch brand?"
     a: "Not quite. Hamilton is best classified as entry-level luxury or mid-tier Swiss. It's Swiss-made with quality movements, but it doesn't carry the prestige or price of true luxury brands like Omega or IWC."

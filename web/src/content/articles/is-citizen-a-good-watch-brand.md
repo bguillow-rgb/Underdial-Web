@@ -13,10 +13,10 @@ quickAnswer: "Yes. Citizen is a genuinely good watch brand, especially in the $2
 publishedAt: "2026-10-28"
 author: "Underdial"
 relatedSlugs:
+  - "is-fossil-a-good-watch-brand"
   - "is-orient-a-good-watch-brand"
   - "is-citizen-eco-drive-worth-buying"
   - "is-invicta-worth-buying"
-  - "is-swatch-worth-buying"
 faqs:
   - q: "Is Citizen a good watch brand for everyday wear?"
     a: "Yes. Citizen's build quality, water resistance, and Eco-Drive technology make its watches especially well-suited to daily wear. Most models need no battery changes and minimal servicing for years at a time."
