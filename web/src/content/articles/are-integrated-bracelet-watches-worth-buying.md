@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-tissot-prx-worth-buying"
   - "are-skeleton-watches-worth-buying"
+  - "is-tissot-le-locle-worth-buying"
   - "tissot-prx-vs-citizen-tsuyosa"
-  - "tissot-prx-vs-seiko-presage"
 faqs:
   - q: "What makes a watch bracelet 'integrated'?"
     a: "An integrated bracelet flows directly from the watch case with no visible gap or lug, the first link is shaped to match the case horns as a single design unit. Traditional watches attach any compatible strap via spring bars; integrated designs are purpose-built for one bracelet."
