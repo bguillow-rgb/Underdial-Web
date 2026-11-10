@@ -13,10 +13,10 @@ quickAnswer: "For most buyers, yes. The Seiko 5 Sports delivers a genuine in-hou
 publishedAt: "2026-10-07"
 author: "Underdial"
 relatedSlugs:
+  - "is-orient-bambino-worth-buying"
   - "is-orient-a-good-watch-brand"
   - "is-hamilton-a-good-watch-brand"
   - "is-orient-star-worth-buying"
-  - "is-seiko-a-good-watch-brand"
 faqs:
   - q: "Is the Seiko 5 a good first automatic watch?"
     a: "Yes. The 4R36 movement is robust, hacks to the second, and can be hand-wound, features missing on older budget automatics. At under $300, the risk-reward is hard to beat for a first mechanical watch."

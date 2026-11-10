@@ -13,10 +13,10 @@ quickAnswer: "Yes, a mechanical watch is worth it if you value craftsmanship, lo
 publishedAt: "2026-10-20"
 author: "Underdial"
 relatedSlugs:
+  - "is-orient-bambino-worth-buying"
   - "do-i-need-a-chronograph-watch"
   - "frederique-constant-vs-tissot"
   - "is-orient-a-good-watch-brand"
-  - "is-seiko-5-worth-buying"
 faqs:
   - q: "Is a mechanical watch more accurate than a quartz watch?"
     a: "No. A quality quartz watch typically drifts only a few seconds per month, while a well-regulated mechanical watch may gain or lose 5, 25 seconds per day. The accuracy gap is real, but for everyday life it rarely matters."

@@ -13,10 +13,10 @@ quickAnswer: "For most buyers, yes. Casio Edifice offers metal-cased analogue an
 publishedAt: "2026-10-22"
 author: "Underdial"
 relatedSlugs:
+  - "is-orient-bambino-worth-buying"
   - "is-casio-mtp-worth-buying"
   - "is-hamilton-a-good-watch-brand"
   - "is-orient-star-worth-buying"
-  - "is-seiko-5-worth-buying"
 faqs:
   - q: "Is Casio Edifice a good watch brand?"
     a: "Yes. Edifice is Casio's analogue and ana-digi sports sub-brand, targeting professional and active buyers who want metal-cased watches with real complications. Build quality and movement reliability are strong at every price tier."

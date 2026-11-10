@@ -16,7 +16,7 @@ relatedSlugs:
   - "orient-bambino-vs-seiko-presage"
   - "seiko-presage-vs-orient-star"
   - "citizen-vs-orient"
-  - "seiko-vs-orient-watch"
+  - "is-orient-bambino-worth-buying"
 faqs:
   - q: "Is the Seiko 5 or Orient Bambino better for a first automatic watch?"
     a: "Both are excellent first automatics under $300. Choose the Seiko 5 Sports if you want a rugged, go-anywhere watch with 100m water resistance. Choose the Orient Bambino if you want a refined dress watch with hacking and hand-winding from day one. Many collectors end up owning both."

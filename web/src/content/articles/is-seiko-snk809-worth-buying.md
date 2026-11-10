@@ -13,10 +13,10 @@ quickAnswer: "Yes, the Seiko SNK809 is worth buying, if you can find one under $
 publishedAt: "2026-11-03"
 author: "Underdial"
 relatedSlugs:
+  - "is-orient-bambino-worth-buying"
   - "is-orient-kamasu-worth-buying"
   - "is-invicta-worth-buying"
   - "is-seiko-5-worth-buying"
-  - "is-seiko-turtle-worth-buying"
 faqs:
   - q: "Is the Seiko SNK809 still being made?"
     a: "No. The SNK809 was discontinued from active Seiko production, but new-old-stock and pre-owned examples still circulate on Amazon, eBay, and watch forums, typically in the $90, $180 range depending on condition and seller."

@@ -16,7 +16,7 @@ relatedSlugs:
   - "solar-watch-explained"
   - "are-skeleton-watches-worth-buying"
   - "is-a-mechanical-watch-worth-it"
-  - "are-integrated-bracelet-watches-worth-buying"
+  - "is-orient-bambino-worth-buying"
 faqs:
   - q: "What is an exhibition caseback on a watch?"
     a: "An exhibition caseback (also called a display caseback or see-through caseback) replaces the solid metal back of a watch with a transparent window -- usually mineral or sapphire crystal -- so you can see the movement, rotor, and decorative finishing inside."
