@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-seiko-alpinist-worth-buying"
   - "is-seiko-turtle-worth-buying"
+  - "is-tissot-seastar-worth-buying"
   - "is-citizen-a-good-watch-brand"
-  - "is-fossil-a-good-watch-brand"
 faqs:
   - q: "What is the Seiko Prospex line, exactly?"
     a: "Prospex is Seiko's professional-spec outdoor sub-brand, launched in 1965. It covers ISO-rated dive watches, solar field watches, and land/air tool watches, all purpose-built for real-world conditions rather than dress wear."

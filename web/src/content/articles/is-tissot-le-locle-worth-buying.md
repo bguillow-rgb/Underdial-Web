@@ -13,10 +13,10 @@ quickAnswer: "Yes, the Tissot Le Locle is worth buying if you want a Swiss autom
 publishedAt: "2026-11-08"
 author: "Underdial"
 relatedSlugs:
+  - "is-tissot-seastar-worth-buying"
   - "is-tissot-prx-worth-buying"
   - "frederique-constant-vs-tissot"
   - "is-seiko-turtle-worth-buying"
-  - "is-casio-mtp-worth-buying"
 faqs:
   - q: "What movement does the Tissot Le Locle use?"
     a: "Current Le Locle models use Tissot's Powermatic 80 caliber (a modified ETA C07.111), offering 80 hours of power reserve, hacking, and hand-winding. Older models used the standard ETA 2824-2."
