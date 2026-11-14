@@ -14,9 +14,9 @@ publishedAt: "2026-10-14"
 author: "Underdial"
 relatedSlugs:
   - "is-seiko-prospex-worth-buying"
+  - "is-laco-a-good-watch-brand"
   - "is-seiko-turtle-worth-buying"
   - "hamilton-vs-seiko"
-  - "is-hamilton-a-good-watch-brand"
 faqs:
   - q: "Which Seiko Alpinist model should I buy, SPB121 or SPB507?"
     a: "The SPB121 (roughly $725) is the proven choice: iconic green dial, 6R35 movement, sapphire crystal. The newer SPB507 (8th-generation, ~$950, $992) adds the 6R55 movement, DiaSHIELD coating, and a slightly slimmer profile. Buy the SPB121 if budget matters; buy the SPB507 if you want the most current specs."

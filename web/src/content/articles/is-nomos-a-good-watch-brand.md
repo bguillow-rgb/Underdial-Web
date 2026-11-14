@@ -14,9 +14,9 @@ publishedAt: "2026-10-29"
 author: "Underdial"
 relatedSlugs:
   - "is-hamilton-a-good-watch-brand"
+  - "is-laco-a-good-watch-brand"
   - "is-mido-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
-  - "is-tissot-a-good-watch-brand"
 faqs:
   - q: "Is Nomos a luxury watch brand?"
     a: "Nomos sits at the entry level of fine watchmaking rather than the traditional luxury tier. Watches are priced from roughly $1,500 to $3,500 for steel models, above Tissot and Hamilton, but well below Omega or IWC."

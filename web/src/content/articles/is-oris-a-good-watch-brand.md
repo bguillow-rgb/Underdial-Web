@@ -14,9 +14,9 @@ publishedAt: "2026-10-13"
 author: "Underdial"
 relatedSlugs:
   - "is-longines-a-good-watch-brand"
+  - "is-laco-a-good-watch-brand"
   - "is-seiko-a-good-watch-brand"
   - "is-citizen-a-good-watch-brand"
-  - "is-hamilton-a-good-watch-brand"
 faqs:
   - q: "Is Oris a luxury watch brand?"
     a: "Oris sits at the entry point of Swiss luxury, above everyday Swiss brands like Tissot and Hamilton, but below mid-luxury names like Longines and TAG Heuer. It's better described as an independent Swiss mechanical brand with genuine horological credibility."
