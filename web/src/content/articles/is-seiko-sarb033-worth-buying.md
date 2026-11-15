@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-orient-star-worth-buying"
   - "is-seiko-presage-worth-buying"
+  - "is-seiko-skx007-worth-buying"
   - "is-seiko-snk809-worth-buying"
-  - "is-seiko-turtle-worth-buying"
 faqs:
   - q: "Why was the Seiko SARB033 discontinued?"
     a: "Seiko discontinued the SARB line around 2017, 2018 and replaced it with the pricier Presage series. The move raised Seiko's average transaction value and repositioned the brand upmarket."
