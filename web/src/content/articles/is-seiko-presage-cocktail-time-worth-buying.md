@@ -14,9 +14,9 @@ publishedAt: "2026-11-04"
 author: "Underdial"
 relatedSlugs:
   - "is-seiko-presage-worth-buying"
+  - "is-seiko-presage-sharp-edged-worth-buying"
   - "is-orient-star-worth-buying"
   - "is-seiko-alpinist-worth-buying"
-  - "is-seiko-prospex-worth-buying"
 faqs:
   - q: "What movement is in the Seiko Presage Cocktail Time?"
     a: "Most standard Cocktail Time references run the Seiko 4R35, a 21-jewel in-house automatic with hand-winding, hacking seconds, and a 41-hour power reserve. Premium and limited references step up to the 6R35, which extends the reserve to 70 hours and sometimes adds a sapphire crystal."
