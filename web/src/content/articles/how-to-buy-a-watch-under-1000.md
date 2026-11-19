@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-a-vintage-watch-worth-buying"
   - "pre-owned-watch-vs-new"
+  - "best-graduation-watch-under-500"
   - "best-travel-watch-under-500"
-  - "frederique-constant-vs-tissot"
 faqs:
   - q: "What is the best watch to buy under $1,000?"
     a: "There is no single best, it depends on the gap in your rotation. For a versatile first watch, a 38-40mm automatic diver or field watch from Seiko, Tissot, Citizen, or Orient covers the most occasions. If you already own a sporty watch, a slim dress watch is usually the smarter next buy than a second diver."
