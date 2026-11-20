@@ -16,7 +16,7 @@ relatedSlugs:
   - "best-dress-watch-under-500"
   - "best-travel-watch-under-500"
   - "best-watch-under-500"
-  - "orient-bambino-vs-seiko-presage"
+  - "hamilton-khaki-field-vs-seiko-5"
 faqs:
   - q: "What is the best automatic sports watch under $500?"
     a: "The Seiko 5 Sports (4R36 movement, ~$200, $325) is the benchmark, broad style range, 100m water resistance, day-date, and decades of proven reliability. The Hamilton Khaki Field Automatic (~$495, 80-hour power reserve) is the best Swiss-made alternative at the price ceiling."

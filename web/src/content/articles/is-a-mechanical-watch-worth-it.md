@@ -16,7 +16,7 @@ relatedSlugs:
   - "is-orient-bambino-worth-buying"
   - "do-i-need-a-chronograph-watch"
   - "frederique-constant-vs-tissot"
-  - "is-orient-a-good-watch-brand"
+  - "hamilton-khaki-field-vs-seiko-5"
 faqs:
   - q: "Is a mechanical watch more accurate than a quartz watch?"
     a: "No. A quality quartz watch typically drifts only a few seconds per month, while a well-regulated mechanical watch may gain or lose 5, 25 seconds per day. The accuracy gap is real, but for everyday life it rarely matters."

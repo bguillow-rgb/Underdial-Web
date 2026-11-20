@@ -14,9 +14,9 @@ publishedAt: "2026-06-19"
 author: "Underdial"
 relatedSlugs:
   - "frederique-constant-vs-tissot"
+  - "hamilton-khaki-field-vs-seiko-5"
   - "nh35-vs-eta-2824"
   - "tissot-prx-vs-seiko-presage"
-  - "automatic-vs-quartz-watch-under-1000"
 faqs:
   - q: "Are Japanese watches as reliable as Swiss watches?"
     a: "Yes. Movements like the Seiko NH35 and Miyota 9015 have decades of proven reliability. Japanese movements are known for durability and can last just as long as Swiss counterparts with proper care and periodic servicing."

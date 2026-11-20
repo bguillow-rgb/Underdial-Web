@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "pilot-watch-vs-field-watch"
   - "is-a-dive-watch-worth-it"
+  - "hamilton-khaki-field-vs-seiko-5"
   - "orient-vs-hamilton"
-  - "are-homage-watches-worth-buying"
 faqs:
   - q: "Can a field watch be used for swimming?"
     a: "Most field watches are rated 50m, 100m water resistance, which is fine for rain, splashing, and short swims. They're not suited for scuba diving. If you swim regularly, a dedicated dive watch with 200m rating and a screw-down crown is a safer choice."

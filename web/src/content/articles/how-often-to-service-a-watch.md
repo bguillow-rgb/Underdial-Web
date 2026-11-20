@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "should-i-insure-my-watch"
   - "frederique-constant-vs-tissot"
+  - "hamilton-khaki-field-vs-seiko-5"
   - "automatic-vs-quartz-watch-under-1000"
-  - "do-i-need-a-chronograph-watch"
 faqs:
   - q: "How often should I service an automatic watch?"
     a: "Most manufacturers suggest every 4--5 years, but modern lubricants and tightly-toleranced movements mean a well-kept watch that still runs accurately can safely go 6--7 years between services. Let performance guide you more than the calendar."

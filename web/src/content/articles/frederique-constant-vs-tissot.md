@@ -16,7 +16,7 @@ relatedSlugs:
   - "mido-vs-tissot"
   - "tissot-prx-vs-seiko-presage"
   - "certina-vs-tissot"
-  - "hamilton-vs-tissot"
+  - "hamilton-khaki-field-vs-seiko-5"
 faqs:
   - q: "Is Frederique Constant better than Tissot?"
     a: "Neither is universally better. Tissot leads on range, value, and everyday versatility. Frederique Constant edges ahead on classical finishing and movement decoration, but only rewards buyers who appreciate those details enough to pay for them."

@@ -13,10 +13,10 @@ quickAnswer: "The Seiko 5 Sports ($200, $350) is the better daily-wear tool watc
 publishedAt: "2026-09-06"
 author: "Underdial"
 relatedSlugs:
+  - "hamilton-khaki-field-vs-seiko-5"
   - "nh35-vs-eta-2824"
   - "seiko-presage-vs-orient-star"
   - "christopher-ward-vs-seiko"
-  - "citizen-vs-seiko"
 faqs:
   - q: "Is the Seiko Presage worth the extra money over the Seiko 5 Sports?"
     a: "Yes, if you primarily wear the watch in business or dress contexts. The sapphire crystal alone is a meaningful long-term upgrade, and the sunburst or enamel-style dials are genuinely more refined. If you want a casual daily driver or plan to wear it outdoors, the price gap is hard to justify."
