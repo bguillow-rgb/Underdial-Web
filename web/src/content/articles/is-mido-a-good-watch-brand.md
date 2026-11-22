@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-hamilton-a-good-watch-brand"
   - "is-tissot-a-good-watch-brand"
+  - "is-certina-ds-action-worth-buying"
   - "is-christopher-ward-a-good-watch-brand"
-  - "is-glycine-a-good-watch-brand"
 faqs:
   - q: "Is Mido a luxury watch brand?"
     a: "Not in the traditional sense. Mido sits in the accessible-Swiss or 'affordable luxury' tier, the same tier as Hamilton and Certina, one step below Longines. It's Swiss Made and mechanically legitimate, but priced to compete with mid-range brands rather than with Omega or Rolex."

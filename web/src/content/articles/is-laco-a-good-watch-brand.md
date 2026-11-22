@@ -13,10 +13,10 @@ quickAnswer: "Yes, Laco is a legitimate German watch brand founded in 1925 and o
 publishedAt: "2026-11-14"
 author: "Underdial"
 relatedSlugs:
+  - "is-certina-ds-action-worth-buying"
   - "is-hamilton-a-good-watch-brand"
   - "is-oris-a-good-watch-brand"
   - "is-seiko-alpinist-worth-buying"
-  - "is-tissot-a-good-watch-brand"
 faqs:
   - q: "Is Laco a reputable watch brand?"
     a: "Yes. Laco was founded in Pforzheim, Germany in 1925 and was one of five manufacturers contracted to produce the German military B-Uhr observer watch during WWII. That genuine heritage makes it one of the most credible affordable Flieger brands available today."

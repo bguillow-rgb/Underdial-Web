@@ -14,9 +14,9 @@ publishedAt: "2026-10-21"
 author: "Underdial"
 relatedSlugs:
   - "is-tissot-gentleman-worth-buying"
+  - "is-certina-ds-action-worth-buying"
   - "is-tissot-le-locle-worth-buying"
   - "is-tissot-seastar-worth-buying"
-  - "tissot-prx-vs-seiko-presage"
 faqs:
   - q: "Is the Tissot PRX a good first watch?"
     a: "Yes. The PRX automatic is one of the best first Swiss watches you can buy, it teaches you what mechanical ownership feels like without the service costs of something more precious, and it's versatile enough to wear daily."

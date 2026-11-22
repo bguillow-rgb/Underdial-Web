@@ -13,10 +13,10 @@ quickAnswer: "Yes, the Tissot Gentleman is worth buying for most buyers under $1
 publishedAt: "2026-11-21"
 author: "Underdial"
 relatedSlugs:
+  - "is-certina-ds-action-worth-buying"
   - "is-tissot-le-locle-worth-buying"
   - "is-tissot-prx-worth-buying"
   - "is-tissot-seastar-worth-buying"
-  - "is-glycine-a-good-watch-brand"
 faqs:
   - q: "What is the Tissot Gentleman Powermatic 80 price in 2026?"
     a: "The Tissot Gentleman Powermatic 80 retails for around $850 in 2026 for the 40mm version. The newer 38mm models launched in 2026 are priced similarly at $850, depending on dial and bracelet configuration."

@@ -13,10 +13,10 @@ quickAnswer: "Glycine is a legitimate Swiss watchmaker with over 110 years of av
 publishedAt: "2026-11-18"
 author: "Underdial"
 relatedSlugs:
+  - "is-certina-ds-action-worth-buying"
   - "is-citizen-a-good-watch-brand"
   - "is-swatch-worth-buying"
   - "is-tissot-le-locle-worth-buying"
-  - "is-christopher-ward-a-good-watch-brand"
 faqs:
   - q: "Is Glycine still Swiss-made after being acquired by Invicta?"
     a: "Yes. Glycine watches are still assembled in Switzerland and carry the Swiss Made designation. Invicta's ownership is a corporate arrangement; the production pipeline and Swiss certification have been maintained across the core Combat and Airman lines."
