@@ -14,9 +14,9 @@ publishedAt: "2026-11-12"
 author: "Underdial"
 relatedSlugs:
   - "is-certina-ds-action-worth-buying"
+  - "is-hamilton-jazzmaster-worth-buying"
   - "is-tissot-gentleman-worth-buying"
   - "is-tissot-le-locle-worth-buying"
-  - "is-seiko-prospex-worth-buying"
 faqs:
   - q: "What is the Tissot Seastar 1000 Powermatic 80's price in 2026?"
     a: "Depending on the retailer and reference, the Seastar 1000 Powermatic 80 retails between roughly $625 and $875 USD in 2026, with the 40mm version typically at the lower end and the 43mm on a bracelet closer to the top."

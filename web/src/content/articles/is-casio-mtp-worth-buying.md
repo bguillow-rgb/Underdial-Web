@@ -13,10 +13,10 @@ quickAnswer: "Yes, the Casio MTP is worth buying if you want a clean, stainless-
 publishedAt: "2026-11-07"
 author: "Underdial"
 relatedSlugs:
+  - "is-hamilton-jazzmaster-worth-buying"
   - "is-casio-edifice-worth-buying"
   - "is-citizen-a-good-watch-brand"
   - "is-invicta-worth-buying"
-  - "is-orient-bambino-worth-buying"
 faqs:
   - q: "What does MTP stand for in Casio MTP?"
     a: "MTP stands for 'Men's TimePiece' -- it's Casio's core analog line for traditional dress and casual watches, as opposed to the digital G-Shock or sport-focused Edifice lines."

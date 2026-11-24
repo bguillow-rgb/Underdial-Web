@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-seiko-presage-cocktail-time-worth-buying"
   - "is-orient-star-worth-buying"
+  - "is-hamilton-jazzmaster-worth-buying"
   - "is-seiko-presage-sharp-edged-worth-buying"
-  - "is-casio-edifice-worth-buying"
 faqs:
   - q: "Is the Seiko Presage Cocktail Time worth buying in 2026?"
     a: "Yes. At around $475 retail (and $280, 320 pre-owned), the Cocktail Time has the best dial quality of any automatic dress watch under $700. The main trade-off is a Hardlex crystal instead of sapphire and a 4R35 movement rated to ±35 s/day, although real-world accuracy tends to run noticeably tighter than the spec."

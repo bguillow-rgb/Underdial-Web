@@ -13,10 +13,10 @@ quickAnswer: "Yes, for most buyers the Seiko Presage Sharp Edged is worth it. Yo
 publishedAt: "2026-11-17"
 author: "Underdial"
 relatedSlugs:
+  - "is-hamilton-jazzmaster-worth-buying"
   - "is-seiko-presage-cocktail-time-worth-buying"
   - "is-seiko-presage-worth-buying"
   - "tissot-prx-vs-seiko-presage"
-  - "orient-bambino-vs-seiko-presage"
 faqs:
   - q: "What is the Seiko Presage Sharp Edged?"
     a: "It's a sub-line within Seiko's Presage dress-watch range, introduced in 2020. It features angular, multifaceted cases and dials textured with the traditional Japanese asanoha (hemp-leaf) pattern, powered by the in-house 6R35 automatic movement."

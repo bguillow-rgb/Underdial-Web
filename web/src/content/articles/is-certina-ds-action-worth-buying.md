@@ -16,7 +16,7 @@ relatedSlugs:
   - "is-tissot-seastar-worth-buying"
   - "is-glycine-a-good-watch-brand"
   - "is-tissot-gentleman-worth-buying"
-  - "is-invicta-worth-buying"
+  - "is-hamilton-jazzmaster-worth-buying"
 faqs:
   - q: "What movement does the Certina DS Action use?"
     a: "The DS Action Diver runs the ETA Powermatic 80.611 automatic movement, made by ETA within the Swatch Group. It delivers an 80-hour power reserve, hacking seconds, and a Nivachron hairspring that resists magnetism. It is not in-house, but it is proven, serviceable, and among the most reliable movements in affordable Swiss watchmaking."
