@@ -13,10 +13,10 @@ quickAnswer: "Integrated bracelet watches are worth buying if you want a cohesiv
 publishedAt: "2026-09-22"
 author: "Underdial"
 relatedSlugs:
+  - "is-citizen-tsuyosa-worth-buying"
   - "is-tissot-prx-worth-buying"
   - "are-skeleton-watches-worth-buying"
   - "is-hamilton-jazzmaster-worth-buying"
-  - "is-tissot-gentleman-worth-buying"
 faqs:
   - q: "What makes a watch bracelet 'integrated'?"
     a: "An integrated bracelet flows directly from the watch case with no visible gap or lug, the first link is shaped to match the case horns as a single design unit. Traditional watches attach any compatible strap via spring bars; integrated designs are purpose-built for one bracelet."

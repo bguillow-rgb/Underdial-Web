@@ -14,9 +14,9 @@ publishedAt: "2026-09-11"
 author: "Underdial"
 relatedSlugs:
   - "tissot-prx-vs-seiko-presage"
+  - "is-citizen-tsuyosa-worth-buying"
   - "certina-vs-tissot"
   - "hamilton-khaki-field-vs-tissot-prx"
-  - "is-seiko-turtle-worth-buying"
 faqs:
   - q: "Is the Citizen Tsuyosa cheaper than the Tissot PRX?"
     a: "Generally yes. The Tsuyosa automatic typically retails $50, $100 below the PRX Powermatic 80, and Eco-Drive versions can be even more affordable. Street pricing shifts, so check current prices before buying."
