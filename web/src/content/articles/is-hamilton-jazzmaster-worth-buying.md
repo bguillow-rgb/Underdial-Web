@@ -13,10 +13,10 @@ quickAnswer: "Yes, the Hamilton Jazzmaster is worth buying for most people who w
 publishedAt: "2026-11-24"
 author: "Underdial"
 relatedSlugs:
+  - "is-mido-multifort-worth-buying"
   - "is-tissot-gentleman-worth-buying"
   - "is-tissot-le-locle-worth-buying"
   - "is-tissot-prx-worth-buying"
-  - "is-tissot-seastar-worth-buying"
 faqs:
   - q: "What is the Hamilton Jazzmaster best suited for?"
     a: "Office wear, evenings out, and formal occasions where a dive or field watch would feel out of place. It sits in a rare sweet spot: dressy enough for a dinner jacket, casual enough for a business meeting."

@@ -14,9 +14,9 @@ publishedAt: "2026-11-26"
 author: "Underdial"
 relatedSlugs:
   - "is-tissot-prx-worth-buying"
+  - "is-mido-multifort-worth-buying"
   - "is-tissot-le-locle-worth-buying"
   - "tissot-prx-vs-citizen-tsuyosa"
-  - "are-integrated-bracelet-watches-worth-buying"
 faqs:
   - q: "What movement does the Citizen Tsuyosa use?"
     a: "The Tsuyosa runs on Citizen's Miyota 8210 automatic movement, a 21-jewel caliber beating at 21,600 vph with roughly a 42-hour power reserve. It features a display caseback, is hand-windable, and newer production batches have added hacking seconds."

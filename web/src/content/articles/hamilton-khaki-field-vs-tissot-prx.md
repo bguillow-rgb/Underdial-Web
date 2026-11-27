@@ -13,10 +13,10 @@ quickAnswer: "The Hamilton Khaki Field suits buyers who want a flat, honest fiel
 publishedAt: "2026-09-07"
 author: "Underdial"
 relatedSlugs:
+  - "is-mido-multifort-worth-buying"
   - "tissot-prx-vs-seiko-presage"
   - "hamilton-khaki-field-vs-seiko-5"
   - "hamilton-vs-tissot"
-  - "orient-vs-hamilton"
 faqs:
   - q: "Which has a better movement, the Hamilton Khaki Field or Tissot PRX?"
     a: "Both are Swatch Group watches. The Hamilton Khaki Field Automatic runs the H-10 caliber (a modified ETA 2824-2) with an 80-hour power reserve. The Tissot PRX Powermatic 80 runs the caliber 80.111 (also ETA-based) with the same 80-hour reserve. Movement quality is effectively equal, the H-10 has a slightly higher beat rate (21,600 bph vs 21,600 bph), and both are regulated to similar accuracy. Neither has a meaningful movement edge."

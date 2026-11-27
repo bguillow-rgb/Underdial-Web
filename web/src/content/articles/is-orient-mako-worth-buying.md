@@ -15,8 +15,8 @@ author: "Underdial"
 relatedSlugs:
   - "is-orient-kamasu-worth-buying"
   - "is-seiko-snk809-worth-buying"
+  - "is-mido-multifort-worth-buying"
   - "is-seiko-turtle-worth-buying"
-  - "is-tissot-seastar-worth-buying"
 faqs:
   - q: "What is the difference between the Orient Mako and the Orient Kamasu?"
     a: "Both share Orient's in-house F6922 automatic movement and 200m water resistance. The Kamasu (sometimes called Mako III) adds a sapphire crystal and usually better lume for around $80, $90 more. The Mako uses Orient's Hardlex mineral crystal. For hard daily wear, the Kamasu's sapphire is worth the premium; for occasional wear, the Mako is plenty."
